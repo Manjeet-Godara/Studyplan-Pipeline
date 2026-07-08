@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for transitioning SAM patients from F-75 to F-100 feeding, emphasizing safety, monitoring for complications, and achieving catch-up growth while preventing refeeding syndrome.",
+  "learning_objectives": [
+    "Understand the criteria for transitioning from F-75 to F-100 feeding in SAM management.",
+    "Identify warning signs of cardiac intolerance during rehabilitation feeding.",
+    "Learn to monitor and interpret catch-up growth rates in SAM patients.",
+    "Recognize and prevent refeeding syndrome during nutritional rehabilitation."
+  ],
+  "key_facts": [
+    "Transition to F-100 feeding should begin only when appetite has returned, temperature is stable, and oedema is reducing or resolved.",
+    "A practical schedule involves replacing F-75 with an equal volume of F-100 for 2 days, then gradually increasing feed amounts.",
+    "Daily weight gain is categorized as good (\u226510 g/kg/day), moderate (5 to <10 g/kg/day), and poor (<5 g/kg/day).",
+    "Warning signs of cardiac intolerance include tachypnea, rising pulse, hepatomegaly, and recurrent oedema.",
+    "Refeeding syndrome can cause arrhythmias, weakness, and respiratory failure; prevention includes phased feeding and electrolyte monitoring."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Therapeutic Feeding",
+    "Catch-Up Growth",
+    "Refeeding Syndrome",
+    "F-75 Therapeutic Diet",
+    "F-100 Therapeutic Diet",
+    "Nutritional Rehabilitation",
+    "Cardiac Intolerance"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "feeding transition",
+    "catch-up growth",
+    "refeeding safety"
+  ],
+  "reference_quote": "Begin rehabilitation only when appetite has returned, temperature is stable, there has been no further hypoglycemia, and oedema is reducing or resolved. (Source: Ministry of Health and Family Welfare, 2011)",
+  "document_key_topics": [
+    "Transition from F-75 to F-100 feeding",
+    "Monitoring catch-up growth in SAM",
+    "Prevention of refeeding syndrome"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;THERAPEUTIC FEEDING AND CATCH-UP GROWTH;TRANSITION TO F-100 CATCH-UP GROWTH AND REFEEDING SAFETY;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "THERAPEUTIC FEEDING AND CATCH-UP GROWTH",
+  "sub_subtopic": "TRANSITION TO F-100 CATCH-UP GROWTH AND REFEEDING SAFETY",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;THERAPEUTIC FEEDING AND CATCH-UP GROWTH;TRANSITION TO F-100 CATCH-UP GROWTH AND REFEEDING SAFETY;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00895"
+}

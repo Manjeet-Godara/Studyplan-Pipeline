@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Urgent red flags in outpatient triage of stunted children include nutritional edema, severe wasting, danger signs of infection, and dehydration, necessitating inpatient stabilization to prevent complications like hypoglycemia and sepsis.",
+  "learning_objectives": [
+    "Identify urgent red flags in stunted children requiring inpatient stabilization.",
+    "Understand the physiological risks of severe malnutrition and appropriate triage protocols.",
+    "Differentiate between routine stunting follow-up and acute risk management.",
+    "Apply national or IAP protocols for facility-based care in severe malnutrition cases."
+  ],
+  "key_facts": [
+    "Stunting is typically chronic but can decompensate quickly with acute illness.",
+    "Urgent red flags include bilateral pitting edema, very low MUAC, lethargy, inability to feed, hypothermia, high fever, and dehydration or shock.",
+    "Severely malnourished children are at risk of hypoglycemia, hypothermia, electrolyte derangements, and sepsis.",
+    "Inappropriate routine pediatric practices can harm children with severe malnutrition physiology.",
+    "Rehydration in severe malnutrition must be cautious to avoid complications.",
+    "Explicit documentation of triage decisions is critical for guiding care urgency and safety.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Stunting",
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Nutritional Edema",
+    "Dehydration",
+    "Infection",
+    "Triage",
+    "Pediatric Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "acute risk identification",
+    "inpatient referral",
+    "growth monitoring",
+    "malnutrition management"
+  ],
+  "reference_quote": "\u2018If edema is present, appetite is poor, or there are systemic danger signs, prioritize facility-based management using national or IAP protocols, because \u201cusual pediatric practices\u201d can be harmful in severe malnutrition physiology.\u2019",
+  "document_key_topics": [
+    "Stunting and chronic undernutrition",
+    "Outpatient triage and acute risk identification",
+    "Urgent red flags for inpatient stabilization"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;OUTPATIENT TRIAGE OF STUNTING WITH ACUTE RISK IDENTIFICATION;URGENT RED FLAGS FOR STABILIZATION AND INPATIENT REFERRAL;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
+  "subtopic": "OUTPATIENT TRIAGE OF STUNTING WITH ACUTE RISK IDENTIFICATION",
+  "sub_subtopic": "URGENT RED FLAGS FOR STABILIZATION AND INPATIENT REFERRAL",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;OUTPATIENT TRIAGE OF STUNTING WITH ACUTE RISK IDENTIFICATION;URGENT RED FLAGS FOR STABILIZATION AND INPATIENT REFERRAL;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1r1"
+}

@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+*.zip
+node_modules/
+*/cfg.py
+.env.env
+**/.env
+secrets.txt
+local.settings.json
+cfg.py
+studyplan_pipeline_hierarchical_rag_update.patch
+all_code_export.txt
+studyplan_app2.py

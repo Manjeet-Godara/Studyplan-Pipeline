@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Management of neurodisability-associated undernutrition requires individualized nutrition therapy, feeding safety assessments, and integration with India's RBSK and DEIC services to address unique challenges like aspiration risk, prolonged meals, and variable energy needs.",
+  "learning_objectives": [
+    "Understand the impact of neurodisability on nutritional needs and feeding safety.",
+    "Learn to assess and modify feeding practices for children with conditions like cerebral palsy.",
+    "Identify when to escalate to supplemental tube feeding to prevent complications.",
+    "Utilize India's RBSK and DEIC pathways for therapy and assistive services."
+  ],
+  "key_facts": [
+    "Feeding safety screen should be conducted at every visit, focusing on choking, coughing, wet voice, recurrent pneumonia, or meals lasting >30 minutes.",
+    "Energy needs vary based on tone and mobility; reassess frequently and prioritize protein and micronutrient adequacy.",
+    "Use energy-dense home foods like oil/ghee in porridge, nut pastes, and dairy to promote weight gain.",
+    "Constipation exacerbates appetite and reflux; treat aggressively to improve feeding outcomes.",
+    "Delaying tube feeding escalation can worsen respiratory morbidity and caregiver burnout.",
+    "Link to RBSK and DEIC services for therapy and assistive care, ensuring consistent documentation of feeding plans."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Child Nutrition Disorders",
+    "Cerebral Palsy",
+    "Feeding Behavior",
+    "Gastroesophageal Reflux",
+    "Constipation",
+    "Energy Metabolism",
+    "Nutritional Requirements",
+    "Tube Feeding"
+  ],
+  "tags_custom": [
+    "neurodisability",
+    "feeding safety",
+    "nutrition therapy",
+    "caregiver support",
+    "India health pathways"
+  ],
+  "reference_quote": "Use RBSK and District Early Intervention Centers (DEIC) for therapy and assistive services, and document the feeding plan and aspiration precautions explicitly so multiple providers can deliver consistent care.",
+  "document_key_topics": [
+    "Neurodisability-associated undernutrition",
+    "Feeding safety and texture modification",
+    "Individualized energy and nutrient needs",
+    "Integration with RBSK and DEIC services"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;MANAGEMENT MODIFICATIONS IN NEURODISABILITY-ASSOCIATED UNDERNUTRITION;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
+  "subtopic": "MANAGEMENT MODIFICATIONS IN NEURODISABILITY-ASSOCIATED UNDERNUTRITION",
+  "sub_subtopic": null,
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;MANAGEMENT MODIFICATIONS IN NEURODISABILITY-ASSOCIATED UNDERNUTRITION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1x"
+}

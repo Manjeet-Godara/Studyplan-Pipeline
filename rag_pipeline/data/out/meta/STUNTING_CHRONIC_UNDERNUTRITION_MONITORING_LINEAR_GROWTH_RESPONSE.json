@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses monitoring linear growth in children with stunting, focusing on short-interval indicators, growth velocity assessment, and escalation in non-responders based on adherence and clinical red flags.",
+  "learning_objectives": [
+    "Understand the importance of monitoring short-interval process indicators in stunting management.",
+    "Learn how to assess growth velocity and interpret deviations from age and pubertal norms.",
+    "Identify criteria for defining non-response and when to escalate evaluation or refer cases."
+  ],
+  "key_facts": [
+    "Short-interval process indicators include meal structure, protein intake, supplements, and morbidity reduction (tracked over 2\u20134 weeks).",
+    "Height trajectory changes require 8\u201312 weeks; midchildhood growth velocity reference is 5\u20136 cm/year.",
+    "Non-response is defined as no improvement in growth velocity or continued downward height Z score after 8\u201312 weeks of adherence.",
+    "Red flags for escalation include height < -3 SD, pubertal arrest, chronic diarrhea, organomegaly, or persistent systemic symptoms.",
+    "Adolescents' growth velocity must be interpreted with pubertal stage due to delayed puberty mimicking growth failure."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Growth Disorders",
+    "Child Nutrition",
+    "Anthropometry",
+    "Puberty",
+    "Malnutrition",
+    "Growth Velocity",
+    "Chronic Disease"
+  ],
+  "tags_custom": [
+    "linear growth monitoring",
+    "non-responder escalation",
+    "childhood stunting",
+    "growth velocity assessment",
+    "clinical red flags"
+  ],
+  "reference_quote": "World Health Organization. Growth reference data for 5\u201319 years: Indicators \u2014 https://www.who.int/tools/growth-reference-data-for-5to19-years/indicato...",
+  "document_key_topics": [
+    "Monitoring linear growth in stunted children",
+    "Defining and managing non-response in growth interventions",
+    "Escalation criteria based on clinical red flags"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;MONITORING LINEAR GROWTH RESPONSE AND ESCALATION IN NON-RESPONDERS;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
+  "subtopic": "MONITORING LINEAR GROWTH RESPONSE AND ESCALATION IN NON-RESPONDERS",
+  "sub_subtopic": null,
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;MONITORING LINEAR GROWTH RESPONSE AND ESCALATION IN NON-RESPONDERS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u0080"
+}

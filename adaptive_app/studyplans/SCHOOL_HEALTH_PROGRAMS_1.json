@@ -1,0 +1,1877 @@
+{
+  "plan_json": {
+    "topic_id": "BE024E56-F0DE-4C63-B1CA-4190F7C95AC2",
+    "topic_name": "SCHOOL HEALTH PROGRAMS",
+    "supertopic": "Community And Preventive Pediatrics",
+    "assembled_utc": "2026-06-26T04:16:37",
+    "subtopics": [
+      {
+        "subtopic_id": "BC256D51-3767-47D4-A44E-6B700681EF93",
+        "subtopic_title": "GOVERNANCE MODIFICATIONS ACROSS GOVERNMENT PRIVATE AND RESIDENTIAL SCHOOLS",
+        "sequence_no": 1,
+        "category": null,
+        "concept": "- **Core concept:** A minimum safe-operating package is essential for all schools, encompassing two trained focal teachers, a named health facility linkage, a first-aid corner, an emergency escalation sheet, a child-protection reporting pathway, a safe-food policy, a functional WASH checklist, and a referral register with closure status. Government and government-aided schools implement this through convergence of health, education, and women-and-child-development systems. Private schools, while not receiving public commodities, remain accountable for food safety, child protection, school safety, tobacco-free campus rules, and emergency preparedness. Residential schools and hostels require additional governance measures due to extended supervision hours.\n- **Clinical application:** Residential schools must prioritize written health plans, especially for children with chronic conditions like diabetes, epilepsy, severe allergies, asthma, disabilities, or psychiatric vulnerabilities. These plans should include named staff, secure medicine storage (where permitted), emergency triggers, guardian contacts, and pre-documented referral destinations. Girls in hostels require access to reliable menstrual products, privacy, disposal facilities, and support for pain, heavy bleeding, abuse, or mental distress. Risk mitigation strategies should adapt the core checklist to the specific school type, ensuring no compromise in standards for private, rural, low-resource, or residential schools.\n- **Safety/follow-up:** Schools must maintain accountability through documentation and proactive measures, ensuring that child-protection pathways, emergency escalation sheets, and referral registers are functional and up to date. The operational guidelines under Ayushman Bharat and other regulatory frameworks mandate adherence to safety and health standards regardless of school management type. Regular audits and convergence with health and education systems are critical for sustained implementation. Risk may vary by context, but responsibility for child safety and health remains non-negotiable across all school types.",
+        "references": [
+          {
+            "source_id": "ref:23cf4f7514b954a63cc0c0ac578bcf1a480af9fa",
+            "citation_link": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf",
+            "excerpt": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf Security School Safety and on 2021 —"
+          },
+          {
+            "source_id": "ref:bddcf87dbd587447309cecd81bcc42212201442d",
+            "citation_link": "https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi",
+            "excerpt": "with https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi th_disabilities_act%2C_2016.pdf Disabilities Persons 2016 Act —"
+          },
+          {
+            "source_id": "ref:c4e9e8f48dbe13fbfa4a7be7f8e46eaf861ec2bd",
+            "citation_link": "https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O",
+            "excerpt": "Operational guidelines on School Health Programme under Ayushman Bharat — https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O perational_guidelines_on_School_Health_Programme_under_Ayushman_Bharat.pdf Guidelines"
+          },
+          {
+            "source_id": "ref:b02c3463dce65a93bee8e30ce756548fd56c5727",
+            "citation_link": "https://nhm.gov.in/New-Update-",
+            "excerpt": "Menstrual Hygiene Policy for School-Going Girls — https://nhm.gov.in/New-Update- 2025-26/Adolescent-Health/Menstrual-Hygiene-Policy/Menstrual-Hygiene-Policy-for- School-Going-Girls.pdf of Rights"
+          },
+          {
+            "source_id": "ref:5006cae89432ceba836b927d22f164ec40a0eb58",
+            "citation_link": "https://fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Safe_Food_Children_",
+            "excerpt": "Food Safety and Standards Safe Food and Balanced Diets for Children in School — Regulations https://fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Safe_Food_Children_ 07_09_2020.pdf 2020"
+          }
+        ],
+        "questions": [
+          {
+            "question_id": "D7ED3541-5A91-41B0-AE91-2650AE737D27",
+            "stem": "What is included in the minimum safe-operating package for all schools?",
+            "explanation": "The correct answer is 'Two trained focal teachers,' as the minimum safe-operating package includes this along with other key components like a first-aid corner and a referral register.",
+            "correct_choice": "Two trained focal teachers",
+            "choices": [
+              {
+                "choice_index": 0,
+                "choice_text": "Mandatory vaccination drives",
+                "rationale": "Incorrect: Mandatory vaccination drives are not specified as part of the minimum package."
+              },
+              {
+                "choice_index": 1,
+                "choice_text": "On-campus health facility",
+                "rationale": "Incorrect: An on-campus health facility is not a requirement in the minimum package."
+              },
+              {
+                "choice_index": 2,
+                "choice_text": "Two trained focal teachers",
+                "rationale": "Correct: Two trained focal teachers are part of the minimum safe-operating package."
+              },
+              {
+                "choice_index": 3,
+                "choice_text": "Monthly health audits",
+                "rationale": "Incorrect: Monthly health audits are not explicitly mentioned in the minimum package."
+              }
+            ],
+            "correct_choice_index": 2,
+            "variants": [
+              {
+                "variant_no": 1,
+                "stem": "Which feature is part of the minimum safe-operating package for schools?",
+                "correct_choice_index": 2
+              },
+              {
+                "variant_no": 2,
+                "stem": "The minimum safe-operating package for schools includes what?",
+                "correct_choice_index": 2
+              }
+            ],
+            "references": [
+              {
+                "source_id": "ref:23cf4f7514b954a63cc0c0ac578bcf1a480af9fa",
+                "citation_link": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf",
+                "excerpt": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf Security School Safety and on 2021 —"
+              },
+              {
+                "source_id": "ref:bddcf87dbd587447309cecd81bcc42212201442d",
+                "citation_link": "https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi",
+                "excerpt": "with https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi th_disabilities_act%2C_2016.pdf Disabilities Persons 2016 Act —"
+              },
+              {
+                "source_id": "ref:c4e9e8f48dbe13fbfa4a7be7f8e46eaf861ec2bd",
+                "citation_link": "https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O",
+                "excerpt": "Operational guidelines on School Health Programme under Ayushman Bharat — https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O perational_guidelines_on_School_Health_Programme_under_Ayushman_Bharat.pdf Guidelines"
+              },
+              {
+                "source_id": "ref:b02c3463dce65a93bee8e30ce756548fd56c5727",
+                "citation_link": "https://nhm.gov.in/New-Update-",
+                "excerpt": "Menstrual Hygiene Policy for School-Going Girls — https://nhm.gov.in/New-Update- 2025-26/Adolescent-Health/Menstrual-Hygiene-Policy/Menstrual-Hygiene-Policy-for- School-Going-Girls.pdf of Rights"
+              },
+              {
+                "source_id": "ref:5006cae89432ceba836b927d22f164ec40a0eb58",
+                "citation_link": "https://fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Safe_Food_Children_",
+                "excerpt": "Food Safety and Standards Safe Food and Balanced Diets for Children in School — Regulations https://fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Safe_Food_Children_ 07_09_2020.pdf 2020"
+              }
+            ]
+          },
+          {
+            "question_id": "C4FB5436-8186-431A-972C-4FBCA4BB38EA",
+            "stem": "A 12-year-old with asthma joins a residential school. Which governance measure is most critical?",
+            "explanation": "The correct answer is 'Written health plan,' as residential schools must prioritize tailored health plans for children with chronic conditions like asthma.",
+            "correct_choice": "Written health plan",
+            "choices": [
+              {
+                "choice_index": 0,
+                "choice_text": "Safe-food policy",
+                "rationale": "Incorrect: A safe-food policy is part of general governance but does not address asthma care specifically."
+              },
+              {
+                "choice_index": 1,
+                "choice_text": "Monthly WASH audits",
+                "rationale": "Incorrect: Monthly WASH audits are important but not specific to managing asthma."
+              },
+              {
+                "choice_index": 2,
+                "choice_text": "Written health plan",
+                "rationale": "Correct: A written health plan is essential for managing chronic conditions like asthma."
+              },
+              {
+                "choice_index": 3,
+                "choice_text": "Tobacco-free campus",
+                "rationale": "Incorrect: Tobacco-free campus rules apply to all schools but are not specific to the child's condition."
+              }
+            ],
+            "correct_choice_index": 2,
+            "variants": [
+              {
+                "variant_no": 1,
+                "stem": "Which governance measure is crucial for a child with asthma in a residential school?",
+                "correct_choice_index": 2
+              },
+              {
+                "variant_no": 2,
+                "stem": "In residential schools, what is vital for a child with asthma?",
+                "correct_choice_index": 2
+              }
+            ],
+            "references": [
+              {
+                "source_id": "ref:23cf4f7514b954a63cc0c0ac578bcf1a480af9fa",
+                "citation_link": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf",
+                "excerpt": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf Security School Safety and on 2021 —"
+              },
+              {
+                "source_id": "ref:bddcf87dbd587447309cecd81bcc42212201442d",
+                "citation_link": "https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi",
+                "excerpt": "with https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi th_disabilities_act%2C_2016.pdf Disabilities Persons 2016 Act —"
+              },
+              {
+                "source_id": "ref:c4e9e8f48dbe13fbfa4a7be7f8e46eaf861ec2bd",
+                "citation_link": "https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O",
+                "excerpt": "Operational guidelines on School Health Programme under Ayushman Bharat — https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O perational_guidelines_on_School_Health_Programme_under_Ayushman_Bharat.pdf Guidelines"
+              },
+              {
+                "source_id": "ref:b02c3463dce65a93bee8e30ce756548fd56c5727",
+                "citation_link": "https://nhm.gov.in/New-Update-",
+                "excerpt": "Menstrual Hygiene Policy for School-Going Girls — https://nhm.gov.in/New-Update- 2025-26/Adolescent-Health/Menstrual-Hygiene-Policy/Menstrual-Hygiene-Policy-for- School-Going-Girls.pdf of Rights"
+              },
+              {
+                "source_id": "ref:5006cae89432ceba836b927d22f164ec40a0eb58",
+                "citation_link": "https://fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Safe_Food_Children_",
+                "excerpt": "Food Safety and Standards Safe Food and Balanced Diets for Children in School — Regulations https://fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Safe_Food_Children_ 07_09_2020.pdf 2020"
+              }
+            ]
+          }
+        ],
+        "case_studies": [],
+        "coverage_note": null,
+        "content_status": "OK"
+      },
+      {
+        "subtopic_id": "1AA6F838-A221-4150-AC49-E52C8B83BF69",
+        "subtopic_title": "DEWORMING ADMINISTRATION SAFETY AND ADVERSE EVENT RESPONSE",
+        "sequence_no": 2,
+        "category": null,
+        "concept": "- **Core concept:** Mass deworming is a critical intervention under school health programs to combat soil-transmitted helminths, which impair growth, nutrition, and school participation. National Deworming Day targets children and adolescents aged 1 to 19 years, including both enrolled and non-enrolled children, through schools and community platforms. The recommended dose is half a 400 mg albendazole tablet for children aged 1 to 2 years and one 400 mg tablet for those aged 2 to 19 years, with supervised administration. Younger children should receive the tablet crushed with water for ease of swallowing.\n- **Clinical application:** Sick children should not receive albendazole on deworming day and should instead be treated after recovery or following medical consultation. Schools must implement a calm and structured adverse-event protocol to address mild symptoms such as abdominal discomfort, nausea, dizziness, or faintness, which can occur and may lead to misinformation or panic. Immediate responses include observation, hydration, airway assessment, communication with guardians, and escalation through the adverse-event pathway if red flags such as collapse or severe symptoms are noted. Teachers should actively track children who miss doses, are deferred due to illness, or require medical review before future dosing, ensuring they are covered during a mop-up day.\n- **Safety/follow-up:** Deworming campaigns should integrate additional health measures, including iron and folic acid (IFA) supplementation review, promotion of handwashing, assessment of toilet functionality, footwear counseling, and ensuring access to safe drinking water to prevent reinfection. Persistent exposure pathways, such as poor sanitation or lack of footwear, can lead to repeated infections despite regular deworming. Teachers should be trained to recognize that mild symptoms are expected in some children, but red flags such as airway compromise or collapse require immediate escalation. A mop-up day is essential to ensure absentee children are not left untreated, maintaining comprehensive campaign coverage.",
+        "references": [
+          {
+            "source_id": "ref:080d135496536732c83cd0a5a3488a5aa3661145",
+            "citation_link": "https://www.education.gov.in/sites/upload_files/mhrd/files/upload_document/Eng_Sw",
+            "excerpt": "Swachh Bharat Swachh Vidyalaya national https://www.education.gov.in/sites/upload_files/mhrd/files/upload_document/Eng_Sw achch-Bharat-Swachch-Vidhalaya.pdf sanitation guidance —"
+          },
+          {
+            "source_id": "ref:e89c83fe46957b057f676f2da50817d1a1152572",
+            "citation_link": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=797&sublinkid=1448",
+            "excerpt": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=797&sublinkid=1448 programme Bharat Mukt resources — —"
+          },
+          {
+            "source_id": "ref:561607d4bc885744cdd08ccd885bc9a226a9ef0e",
+            "citation_link": "https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O",
+            "excerpt": "Operational guidelines on School Health Programme under Ayushman Bharat — https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O perational_guidelines_on_School_Health_Programme_under_Ayushman_Bharat.pdf"
+          },
+          {
+            "source_id": "ref:c47831c6fc0e18585a211b70ce58cab3a97d64cd",
+            "citation_link": "https://nhm.gov.in/images/pdf/NDD/Guidelines/NDD_Operational_Guidelines.pdf",
+            "excerpt": "https://nhm.gov.in/images/pdf/NDD/Guidelines/NDD_Operational_Guidelines.pdf Deworming operational guidelines Day Anaemia"
+          }
+        ],
+        "questions": [
+          {
+            "question_id": "2774B98C-32B0-4F64-AF56-0E7262469E54",
+            "stem": "During a school deworming campaign, a child reports dizziness and abdominal discomfort. What is the next step?",
+            "explanation": "Mild symptoms such as dizziness and abdominal discomfort should be addressed calmly with hydration and observation to prevent panic and ensure child safety.",
+            "correct_choice": "Administer hydration and observe",
+            "choices": [
+              {
+                "choice_index": 0,
+                "choice_text": "Escalate to emergency services",
+                "rationale": "Incorrect: Emergency escalation is for red flags like collapse or airway compromise."
+              },
+              {
+                "choice_index": 1,
+                "choice_text": "Administer hydration and observe",
+                "rationale": "Correct: Mild symptoms like dizziness and abdominal discomfort require hydration and observation."
+              },
+              {
+                "choice_index": 2,
+                "choice_text": "Ignore symptoms as non-serious",
+                "rationale": "Incorrect: Ignoring symptoms can lead to misinformation or panic."
+              },
+              {
+                "choice_index": 3,
+                "choice_text": "Stop the campaign immediately",
+                "rationale": "Incorrect: Stopping the campaign is unnecessary for mild symptoms."
+              }
+            ],
+            "correct_choice_index": 1,
+            "variants": [
+              {
+                "variant_no": 1,
+                "stem": "A child feels faint after deworming. What should be done first?",
+                "correct_choice_index": 1
+              },
+              {
+                "variant_no": 2,
+                "stem": "What is the immediate response to dizziness during deworming?",
+                "correct_choice_index": 1
+              }
+            ],
+            "references": [
+              {
+                "source_id": "ref:080d135496536732c83cd0a5a3488a5aa3661145",
+                "citation_link": "https://www.education.gov.in/sites/upload_files/mhrd/files/upload_document/Eng_Sw",
+                "excerpt": "Swachh Bharat Swachh Vidyalaya national https://www.education.gov.in/sites/upload_files/mhrd/files/upload_document/Eng_Sw achch-Bharat-Swachch-Vidhalaya.pdf sanitation guidance —"
+              },
+              {
+                "source_id": "ref:e89c83fe46957b057f676f2da50817d1a1152572",
+                "citation_link": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=797&sublinkid=1448",
+                "excerpt": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=797&sublinkid=1448 programme Bharat Mukt resources — —"
+              },
+              {
+                "source_id": "ref:561607d4bc885744cdd08ccd885bc9a226a9ef0e",
+                "citation_link": "https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O",
+                "excerpt": "Operational guidelines on School Health Programme under Ayushman Bharat — https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O perational_guidelines_on_School_Health_Programme_under_Ayushman_Bharat.pdf"
+              },
+              {
+                "source_id": "ref:c47831c6fc0e18585a211b70ce58cab3a97d64cd",
+                "citation_link": "https://nhm.gov.in/images/pdf/NDD/Guidelines/NDD_Operational_Guidelines.pdf",
+                "excerpt": "https://nhm.gov.in/images/pdf/NDD/Guidelines/NDD_Operational_Guidelines.pdf Deworming operational guidelines Day Anaemia"
+              }
+            ]
+          },
+          {
+            "question_id": "1D049A29-878C-4FCD-8350-1C873B9C60D6",
+            "stem": "What is the recommended albendazole dose for a 1-year-old child during mass deworming campaigns?",
+            "explanation": "The recommended dose for children aged 1-2 years is half a 400 mg albendazole tablet, crushed with water for ease of swallowing.",
+            "correct_choice": "Half a 400 mg tablet",
+            "choices": [
+              {
+                "choice_index": 0,
+                "choice_text": "Half a 400 mg tablet",
+                "rationale": "Correct: Half a 400 mg tablet is recommended for 1-year-olds."
+              },
+              {
+                "choice_index": 1,
+                "choice_text": "One 400 mg tablet",
+                "rationale": "Incorrect: One tablet is for children aged 2-19 years."
+              },
+              {
+                "choice_index": 2,
+                "choice_text": "400 mg tablet crushed",
+                "rationale": "Incorrect: 400 mg is for children aged 2-19 years."
+              },
+              {
+                "choice_index": 3,
+                "choice_text": "Two 400 mg tablets",
+                "rationale": "Incorrect: Two tablets exceed the recommended dose for all age groups."
+              }
+            ],
+            "correct_choice_index": 0,
+            "variants": [
+              {
+                "variant_no": 1,
+                "stem": "How much albendazole should a 1-year-old receive during deworming?",
+                "correct_choice_index": 0
+              },
+              {
+                "variant_no": 2,
+                "stem": "What is the appropriate albendazole dose for a 1-year-old child?",
+                "correct_choice_index": 0
+              }
+            ],
+            "references": [
+              {
+                "source_id": "ref:080d135496536732c83cd0a5a3488a5aa3661145",
+                "citation_link": "https://www.education.gov.in/sites/upload_files/mhrd/files/upload_document/Eng_Sw",
+                "excerpt": "Swachh Bharat Swachh Vidyalaya national https://www.education.gov.in/sites/upload_files/mhrd/files/upload_document/Eng_Sw achch-Bharat-Swachch-Vidhalaya.pdf sanitation guidance —"
+              },
+              {
+                "source_id": "ref:e89c83fe46957b057f676f2da50817d1a1152572",
+                "citation_link": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=797&sublinkid=1448",
+                "excerpt": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=797&sublinkid=1448 programme Bharat Mukt resources — —"
+              },
+              {
+                "source_id": "ref:561607d4bc885744cdd08ccd885bc9a226a9ef0e",
+                "citation_link": "https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O",
+                "excerpt": "Operational guidelines on School Health Programme under Ayushman Bharat — https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O perational_guidelines_on_School_Health_Programme_under_Ayushman_Bharat.pdf"
+              },
+              {
+                "source_id": "ref:c47831c6fc0e18585a211b70ce58cab3a97d64cd",
+                "citation_link": "https://nhm.gov.in/images/pdf/NDD/Guidelines/NDD_Operational_Guidelines.pdf",
+                "excerpt": "https://nhm.gov.in/images/pdf/NDD/Guidelines/NDD_Operational_Guidelines.pdf Deworming operational guidelines Day Anaemia"
+              }
+            ]
+          },
+          {
+            "question_id": "7707858E-FCBC-4BE5-B95F-7F9099A8E0A3",
+            "stem": "What is the next step after mild adverse symptoms following albendazole administration?",
+            "explanation": "The boy's symptoms resolved with observation and hydration, which is the recommended response to mild adverse events during deworming.",
+            "correct_choice": "Observe and hydrate the child",
+            "choices": [
+              {
+                "choice_index": 0,
+                "choice_text": "Observe and hydrate the child",
+                "rationale": "Observation and hydration address mild symptoms effectively, as seen in the case."
+              },
+              {
+                "choice_index": 1,
+                "choice_text": "Administer antiemetics immediately",
+                "rationale": "Antiemetics are unnecessary for mild symptoms like dizziness and abdominal discomfort."
+              },
+              {
+                "choice_index": 2,
+                "choice_text": "Avoid albendazole in future campaigns",
+                "rationale": "Avoiding albendazole unnecessarily may increase risk of helminth infections."
+              },
+              {
+                "choice_index": 3,
+                "choice_text": "Refer to tertiary care hospital",
+                "rationale": "Referral is excessive for non-severe symptoms without red flags like collapse."
+              }
+            ],
+            "correct_choice_index": 0,
+            "variants": [
+              {
+                "variant_no": 1,
+                "stem": "How should mild dizziness post-deworming be managed?",
+                "correct_choice_index": 0
+              },
+              {
+                "variant_no": 2,
+                "stem": "What is the immediate response to mild symptoms after albendazole?",
+                "correct_choice_index": 0
+              }
+            ],
+            "references": [
+              {
+                "source_id": "ref:080d135496536732c83cd0a5a3488a5aa3661145",
+                "citation_link": "https://www.education.gov.in/sites/upload_files/mhrd/files/upload_document/Eng_Sw",
+                "excerpt": "Swachh Bharat Swachh Vidyalaya national https://www.education.gov.in/sites/upload_files/mhrd/files/upload_document/Eng_Sw achch-Bharat-Swachch-Vidhalaya.pdf sanitation guidance —"
+              },
+              {
+                "source_id": "ref:e89c83fe46957b057f676f2da50817d1a1152572",
+                "citation_link": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=797&sublinkid=1448",
+                "excerpt": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=797&sublinkid=1448 programme Bharat Mukt resources — —"
+              },
+              {
+                "source_id": "ref:561607d4bc885744cdd08ccd885bc9a226a9ef0e",
+                "citation_link": "https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O",
+                "excerpt": "Operational guidelines on School Health Programme under Ayushman Bharat — https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O perational_guidelines_on_School_Health_Programme_under_Ayushman_Bharat.pdf"
+              },
+              {
+                "source_id": "ref:c47831c6fc0e18585a211b70ce58cab3a97d64cd",
+                "citation_link": "https://nhm.gov.in/images/pdf/NDD/Guidelines/NDD_Operational_Guidelines.pdf",
+                "excerpt": "https://nhm.gov.in/images/pdf/NDD/Guidelines/NDD_Operational_Guidelines.pdf Deworming operational guidelines Day Anaemia"
+              }
+            ]
+          },
+          {
+            "question_id": "1614A33B-C8E6-48E0-93CE-8D55DAD6B454",
+            "stem": "What should be communicated to parents about future albendazole doses?",
+            "explanation": "Parents should be reassured that albendazole can be safely administered in the future with measures like ensuring the child eats beforehand.",
+            "correct_choice": "Safe with proper precautions",
+            "choices": [
+              {
+                "choice_index": 0,
+                "choice_text": "Switch to an alternative dewormer",
+                "rationale": "No alternative dewormer is indicated for this situation."
+              },
+              {
+                "choice_index": 1,
+                "choice_text": "Avoid albendazole permanently",
+                "rationale": "Avoiding albendazole permanently is unnecessary for mild, transient symptoms."
+              },
+              {
+                "choice_index": 2,
+                "choice_text": "Safe with proper precautions",
+                "rationale": "Albendazole is safe if precautions like eating beforehand are followed."
+              },
+              {
+                "choice_index": 3,
+                "choice_text": "Needs specialist consultation",
+                "rationale": "Specialist consultation is not needed for mild, resolved symptoms."
+              }
+            ],
+            "correct_choice_index": 2,
+            "variants": [
+              {
+                "variant_no": 1,
+                "stem": "How should parents be reassured about future deworming?",
+                "correct_choice_index": 2
+              },
+              {
+                "variant_no": 2,
+                "stem": "What advice should parents receive about albendazole?",
+                "correct_choice_index": 2
+              }
+            ],
+            "references": [
+              {
+                "source_id": "ref:080d135496536732c83cd0a5a3488a5aa3661145",
+                "citation_link": "https://www.education.gov.in/sites/upload_files/mhrd/files/upload_document/Eng_Sw",
+                "excerpt": "Swachh Bharat Swachh Vidyalaya national https://www.education.gov.in/sites/upload_files/mhrd/files/upload_document/Eng_Sw achch-Bharat-Swachch-Vidhalaya.pdf sanitation guidance —"
+              },
+              {
+                "source_id": "ref:e89c83fe46957b057f676f2da50817d1a1152572",
+                "citation_link": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=797&sublinkid=1448",
+                "excerpt": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=797&sublinkid=1448 programme Bharat Mukt resources — —"
+              },
+              {
+                "source_id": "ref:561607d4bc885744cdd08ccd885bc9a226a9ef0e",
+                "citation_link": "https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O",
+                "excerpt": "Operational guidelines on School Health Programme under Ayushman Bharat — https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O perational_guidelines_on_School_Health_Programme_under_Ayushman_Bharat.pdf"
+              },
+              {
+                "source_id": "ref:c47831c6fc0e18585a211b70ce58cab3a97d64cd",
+                "citation_link": "https://nhm.gov.in/images/pdf/NDD/Guidelines/NDD_Operational_Guidelines.pdf",
+                "excerpt": "https://nhm.gov.in/images/pdf/NDD/Guidelines/NDD_Operational_Guidelines.pdf Deworming operational guidelines Day Anaemia"
+              }
+            ]
+          }
+        ],
+        "case_studies": [
+          {
+            "case_id": "3AB13A29-9DC1-46BC-8B4E-D207601B0861",
+            "title": "Adverse Event During School Deworming Day",
+            "vignette": "A 9-year-old boy in a rural government school in India participated in National Deworming Day. He was given a single 400 mg albendazole tablet under teacher supervision mid-morning. Within 30 minutes, he complained of mild abdominal discomfort and dizziness. The teacher reassured him and offered water, but 10 minutes later, he appeared pale and unsteady, prompting the school staff to notify his parents and escalate to the local health center. On examination by the attending nurse, he was alert but visibly anxious, with a heart rate of 110 bpm and blood pressure of 100/70 mmHg. His abdomen was soft with no tenderness, and there were no signs of respiratory distress. The school health team noted that he had skipped breakfast that morning. By early afternoon, his symptoms resolved with oral hydration and rest. His parents expressed concern about whether he should receive albendazole in future campaigns.",
+            "learning_objective": "Recognize and respond to mild and moderate adverse events following deworming administration, triage red flags, and communicate with caregivers to ensure safety and compliance in future campaigns.",
+            "word_count": 150,
+            "verified": true,
+            "mcqs": [
+              {
+                "question_id": "7707858E-FCBC-4BE5-B95F-7F9099A8E0A3",
+                "stem": "What is the next step after mild adverse symptoms following albendazole administration?",
+                "explanation": "The boy's symptoms resolved with observation and hydration, which is the recommended response to mild adverse events during deworming.",
+                "correct_choice": "Observe and hydrate the child",
+                "choices": [
+                  {
+                    "choice_index": 0,
+                    "choice_text": "Observe and hydrate the child",
+                    "rationale": "Observation and hydration address mild symptoms effectively, as seen in the case."
+                  },
+                  {
+                    "choice_index": 1,
+                    "choice_text": "Administer antiemetics immediately",
+                    "rationale": "Antiemetics are unnecessary for mild symptoms like dizziness and abdominal discomfort."
+                  },
+                  {
+                    "choice_index": 2,
+                    "choice_text": "Avoid albendazole in future campaigns",
+                    "rationale": "Avoiding albendazole unnecessarily may increase risk of helminth infections."
+                  },
+                  {
+                    "choice_index": 3,
+                    "choice_text": "Refer to tertiary care hospital",
+                    "rationale": "Referral is excessive for non-severe symptoms without red flags like collapse."
+                  }
+                ],
+                "variants": [
+                  {
+                    "variant_no": 1,
+                    "stem": "How should mild dizziness post-deworming be managed?",
+                    "correct_choice_index": 0
+                  },
+                  {
+                    "variant_no": 2,
+                    "stem": "What is the immediate response to mild symptoms after albendazole?",
+                    "correct_choice_index": 0
+                  }
+                ]
+              },
+              {
+                "question_id": "1614A33B-C8E6-48E0-93CE-8D55DAD6B454",
+                "stem": "What should be communicated to parents about future albendazole doses?",
+                "explanation": "Parents should be reassured that albendazole can be safely administered in the future with measures like ensuring the child eats beforehand.",
+                "correct_choice": "Safe with proper precautions",
+                "choices": [
+                  {
+                    "choice_index": 0,
+                    "choice_text": "Switch to an alternative dewormer",
+                    "rationale": "No alternative dewormer is indicated for this situation."
+                  },
+                  {
+                    "choice_index": 1,
+                    "choice_text": "Avoid albendazole permanently",
+                    "rationale": "Avoiding albendazole permanently is unnecessary for mild, transient symptoms."
+                  },
+                  {
+                    "choice_index": 2,
+                    "choice_text": "Safe with proper precautions",
+                    "rationale": "Albendazole is safe if precautions like eating beforehand are followed."
+                  },
+                  {
+                    "choice_index": 3,
+                    "choice_text": "Needs specialist consultation",
+                    "rationale": "Specialist consultation is not needed for mild, resolved symptoms."
+                  }
+                ],
+                "variants": [
+                  {
+                    "variant_no": 1,
+                    "stem": "How should parents be reassured about future deworming?",
+                    "correct_choice_index": 2
+                  },
+                  {
+                    "variant_no": 2,
+                    "stem": "What advice should parents receive about albendazole?",
+                    "correct_choice_index": 2
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "coverage_note": null,
+        "content_status": "OK"
+      },
+      {
+        "subtopic_id": "BD8BC77F-0152-4297-A6C7-A8F6A7DCBC75",
+        "subtopic_title": "CLUSTER DETECTION ISOLATION AND PUBLIC HEALTH NOTIFICATION PATHWAY",
+        "sequence_no": 3,
+        "category": null,
+        "concept": "- **Core concept:** Early recognition of clusters in schools is critical to prevent escalation of outbreaks. A cluster is suspected when unusual absenteeism or two or more epidemiologically linked students present with febrile rash illness, acute gastroenteritis, jaundice, suspected food poisoning, neurologic symptoms, influenza-like illness, or similar unexplained illness after a shared exposure. This approach is rooted in public health reporting and school infection-prevention principles.\n- **Clinical application:** Schools should immediately separate symptomatic students from classrooms and provide hydration and urgent care for children with red flags. Same-day actions include communication with the linked health facility or public health unit, line-listing of affected and exposed individuals, and preserving suspected food samples in foodborne events. Teachers must document names, class, symptoms, onset time, meal or exposure history, and contacts, while health teams decide on testing, exclusion, treatment, and notification.\n- **Safety/follow-up:** Schools must avoid premature announcements of diagnoses to prevent panic and ensure communication remains factual and proportionate. Parents should be informed about symptoms to monitor, contact points, any modifications to school attendance, and hygiene or food safety measures being implemented. Controlling rumors is a critical component of effective outbreak management.",
+        "references": [
+          {
+            "source_id": "ref:aa6403ec4bd5e922db56e2b94e20dbd3077b798b",
+            "citation_link": "",
+            "excerpt": "Indian Public Health Standards"
+          },
+          {
+            "source_id": "ref:23cf4f7514b954a63cc0c0ac578bcf1a480af9fa",
+            "citation_link": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf",
+            "excerpt": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf Security School Safety and on 2021 —"
+          },
+          {
+            "source_id": "ref:ebab96585d76108b189c79b93c6edbf374da09e2",
+            "citation_link": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines-",
+            "excerpt": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines- 2022/03_PHC_IPHS_Guidelines-2022.pdf for Primary Health Centres 2022 —"
+          },
+          {
+            "source_id": "ref:c989656e1c831c048f6ac5f1f6c6b8bc8c476ded",
+            "citation_link": "https://pmposhan.education.gov.in/aboutus.html",
+            "excerpt": "PM POSHAN scheme overview — https://pmposhan.education.gov.in/aboutus.html WHO"
+          },
+          {
+            "source_id": "ref:5006cae89432ceba836b927d22f164ec40a0eb58",
+            "citation_link": "https://fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Safe_Food_Children_",
+            "excerpt": "Food Safety and Standards Safe Food and Balanced Diets for Children in School — Regulations https://fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Safe_Food_Children_ 07_09_2020.pdf 2020"
+          },
+          {
+            "source_id": "ref:13fb105cfd41740d42ff0283c1886972985f9f50",
+            "citation_link": "https://www.who.int/publications/i/item/9789240029392",
+            "excerpt": "https://www.who.int/publications/i/item/9789240029392 guideline school on health services — Guidelines"
+          }
+        ],
+        "questions": [
+          {
+            "question_id": "3889E6FE-27FE-442C-B755-0B0D10EF9391",
+            "stem": "What is the most appropriate next step after identifying a potential cluster of febrile rash illness in the school?",
+            "explanation": "Notifying local health authorities is the critical first step in managing a potential cluster. They provide direction on containment, testing, and further actions.",
+            "correct_choice": "Notify local health authorities",
+            "choices": [
+              {
+                "choice_index": 0,
+                "choice_text": "Send all students home",
+                "rationale": "Sending all students home is unnecessary and disruptive without further evaluation."
+              },
+              {
+                "choice_index": 1,
+                "choice_text": "Notify local health authorities",
+                "rationale": "Correct: Public health notification ensures timely investigation and guidance."
+              },
+              {
+                "choice_index": 2,
+                "choice_text": "Announce diagnosis to parents",
+                "rationale": "Premature announcements can cause panic and are not evidence-based."
+              },
+              {
+                "choice_index": 3,
+                "choice_text": "Close the school immediately",
+                "rationale": "School closure is premature without public health advice."
+              }
+            ],
+            "correct_choice_index": 1,
+            "variants": [
+              {
+                "variant_no": 1,
+                "stem": "What is the immediate priority after detecting a cluster of febrile rash illness in a school?",
+                "correct_choice_index": 1
+              },
+              {
+                "variant_no": 2,
+                "stem": "Which action should follow identifying a febrile rash cluster in a school?",
+                "correct_choice_index": 1
+              }
+            ],
+            "references": [
+              {
+                "source_id": "ref:aa6403ec4bd5e922db56e2b94e20dbd3077b798b",
+                "citation_link": "",
+                "excerpt": "Indian Public Health Standards"
+              },
+              {
+                "source_id": "ref:23cf4f7514b954a63cc0c0ac578bcf1a480af9fa",
+                "citation_link": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf",
+                "excerpt": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf Security School Safety and on 2021 —"
+              },
+              {
+                "source_id": "ref:ebab96585d76108b189c79b93c6edbf374da09e2",
+                "citation_link": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines-",
+                "excerpt": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines- 2022/03_PHC_IPHS_Guidelines-2022.pdf for Primary Health Centres 2022 —"
+              },
+              {
+                "source_id": "ref:c989656e1c831c048f6ac5f1f6c6b8bc8c476ded",
+                "citation_link": "https://pmposhan.education.gov.in/aboutus.html",
+                "excerpt": "PM POSHAN scheme overview — https://pmposhan.education.gov.in/aboutus.html WHO"
+              },
+              {
+                "source_id": "ref:5006cae89432ceba836b927d22f164ec40a0eb58",
+                "citation_link": "https://fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Safe_Food_Children_",
+                "excerpt": "Food Safety and Standards Safe Food and Balanced Diets for Children in School — Regulations https://fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Safe_Food_Children_ 07_09_2020.pdf 2020"
+              },
+              {
+                "source_id": "ref:13fb105cfd41740d42ff0283c1886972985f9f50",
+                "citation_link": "https://www.who.int/publications/i/item/9789240029392",
+                "excerpt": "https://www.who.int/publications/i/item/9789240029392 guideline school on health services — Guidelines"
+              }
+            ]
+          },
+          {
+            "question_id": "6343A476-4999-4ACD-8B51-43C6B4DB90DA",
+            "stem": "What criteria suggest a cluster of illness in schools?",
+            "explanation": "The correct answer is 'Unusual absenteeism,' which is a key criterion for suspecting a cluster, especially when linked to shared exposures or symptoms.",
+            "correct_choice": "Unusual absenteeism",
+            "choices": [
+              {
+                "choice_index": 0,
+                "choice_text": "Single febrile rash case",
+                "rationale": "A single case does not meet cluster criteria; multiple linked cases are needed."
+              },
+              {
+                "choice_index": 1,
+                "choice_text": "Unusual absenteeism",
+                "rationale": "Unusual absenteeism may indicate a cluster, especially with linked symptoms."
+              },
+              {
+                "choice_index": 2,
+                "choice_text": "Delayed symptom onset",
+                "rationale": "Clusters involve shared exposure and linked symptoms, not delayed onset."
+              },
+              {
+                "choice_index": 3,
+                "choice_text": "Routine illness patterns",
+                "rationale": "Routine illness patterns are not indicative of clusters."
+              }
+            ],
+            "correct_choice_index": 1,
+            "variants": [
+              {
+                "variant_no": 1,
+                "stem": "Which sign may indicate a school illness cluster?",
+                "correct_choice_index": 1
+              },
+              {
+                "variant_no": 2,
+                "stem": "How can a cluster of illness be suspected in schools?",
+                "correct_choice_index": 1
+              }
+            ],
+            "references": [
+              {
+                "source_id": "ref:aa6403ec4bd5e922db56e2b94e20dbd3077b798b",
+                "citation_link": "",
+                "excerpt": "Indian Public Health Standards"
+              },
+              {
+                "source_id": "ref:23cf4f7514b954a63cc0c0ac578bcf1a480af9fa",
+                "citation_link": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf",
+                "excerpt": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf Security School Safety and on 2021 —"
+              },
+              {
+                "source_id": "ref:ebab96585d76108b189c79b93c6edbf374da09e2",
+                "citation_link": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines-",
+                "excerpt": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines- 2022/03_PHC_IPHS_Guidelines-2022.pdf for Primary Health Centres 2022 —"
+              },
+              {
+                "source_id": "ref:c989656e1c831c048f6ac5f1f6c6b8bc8c476ded",
+                "citation_link": "https://pmposhan.education.gov.in/aboutus.html",
+                "excerpt": "PM POSHAN scheme overview — https://pmposhan.education.gov.in/aboutus.html WHO"
+              },
+              {
+                "source_id": "ref:5006cae89432ceba836b927d22f164ec40a0eb58",
+                "citation_link": "https://fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Safe_Food_Children_",
+                "excerpt": "Food Safety and Standards Safe Food and Balanced Diets for Children in School — Regulations https://fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Safe_Food_Children_ 07_09_2020.pdf 2020"
+              },
+              {
+                "source_id": "ref:13fb105cfd41740d42ff0283c1886972985f9f50",
+                "citation_link": "https://www.who.int/publications/i/item/9789240029392",
+                "excerpt": "https://www.who.int/publications/i/item/9789240029392 guideline school on health services — Guidelines"
+              }
+            ]
+          },
+          {
+            "question_id": "F2D8580C-24D1-4CD1-A469-D475C55ABF2E",
+            "stem": "What is the best immediate action for the symptomatic boy in the school health room?",
+            "explanation": "Isolating the symptomatic child and documenting symptoms are key steps to prevent transmission and support public health investigation.",
+            "correct_choice": "Isolate and document symptoms",
+            "choices": [
+              {
+                "choice_index": 0,
+                "choice_text": "Wait for health authorities' arrival",
+                "rationale": "Delaying action until authorities arrive risks further spread."
+              },
+              {
+                "choice_index": 1,
+                "choice_text": "Administer antibiotics immediately",
+                "rationale": "Antibiotics are not indicated without a confirmed bacterial infection."
+              },
+              {
+                "choice_index": 2,
+                "choice_text": "Send him home without evaluation",
+                "rationale": "Sending him home without evaluation misses the opportunity for cluster detection."
+              },
+              {
+                "choice_index": 3,
+                "choice_text": "Isolate and document symptoms",
+                "rationale": "Correct: Isolation and documentation prevent further spread and aid investigation."
+              }
+            ],
+            "correct_choice_index": 3,
+            "variants": [
+              {
+                "variant_no": 1,
+                "stem": "What is the first step in managing the symptomatic child in the school health room?",
+                "correct_choice_index": 3
+              },
+              {
+                "variant_no": 2,
+                "stem": "How should the symptomatic boy in the school health room be managed immediately?",
+                "correct_choice_index": 3
+              }
+            ],
+            "references": [
+              {
+                "source_id": "ref:aa6403ec4bd5e922db56e2b94e20dbd3077b798b",
+                "citation_link": "",
+                "excerpt": "Indian Public Health Standards"
+              },
+              {
+                "source_id": "ref:23cf4f7514b954a63cc0c0ac578bcf1a480af9fa",
+                "citation_link": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf",
+                "excerpt": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf Security School Safety and on 2021 —"
+              },
+              {
+                "source_id": "ref:ebab96585d76108b189c79b93c6edbf374da09e2",
+                "citation_link": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines-",
+                "excerpt": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines- 2022/03_PHC_IPHS_Guidelines-2022.pdf for Primary Health Centres 2022 —"
+              },
+              {
+                "source_id": "ref:c989656e1c831c048f6ac5f1f6c6b8bc8c476ded",
+                "citation_link": "https://pmposhan.education.gov.in/aboutus.html",
+                "excerpt": "PM POSHAN scheme overview — https://pmposhan.education.gov.in/aboutus.html WHO"
+              },
+              {
+                "source_id": "ref:5006cae89432ceba836b927d22f164ec40a0eb58",
+                "citation_link": "https://fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Safe_Food_Children_",
+                "excerpt": "Food Safety and Standards Safe Food and Balanced Diets for Children in School — Regulations https://fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Safe_Food_Children_ 07_09_2020.pdf 2020"
+              },
+              {
+                "source_id": "ref:13fb105cfd41740d42ff0283c1886972985f9f50",
+                "citation_link": "https://www.who.int/publications/i/item/9789240029392",
+                "excerpt": "https://www.who.int/publications/i/item/9789240029392 guideline school on health services — Guidelines"
+              }
+            ]
+          },
+          {
+            "question_id": "3EF52E31-1418-44AB-A125-EF0288BF1B55",
+            "stem": "A school reports 3 students with acute gastroenteritis after lunch. What is the next step?",
+            "explanation": "The correct answer is 'Separate symptomatic students,' as immediate isolation and hydration are critical first steps in managing suspected clusters.",
+            "correct_choice": "Separate symptomatic students",
+            "choices": [
+              {
+                "choice_index": 0,
+                "choice_text": "Announce food poisoning",
+                "rationale": "Premature announcements can cause panic; factual communication is essential."
+              },
+              {
+                "choice_index": 1,
+                "choice_text": "Ignore and monitor",
+                "rationale": "Ignoring the situation risks escalation; immediate action is required."
+              },
+              {
+                "choice_index": 2,
+                "choice_text": "Separate symptomatic students",
+                "rationale": "Symptomatic students should be separated to prevent further exposure."
+              },
+              {
+                "choice_index": 3,
+                "choice_text": "Cancel all classes",
+                "rationale": "Class cancellations are not the immediate priority unless advised by health teams."
+              }
+            ],
+            "correct_choice_index": 2,
+            "variants": [
+              {
+                "variant_no": 1,
+                "stem": "What is the first action for 3 students with gastroenteritis after shared exposure?",
+                "correct_choice_index": 2
+              },
+              {
+                "variant_no": 2,
+                "stem": "How should schools respond to multiple students with acute gastroenteritis linked to lunch?",
+                "correct_choice_index": 2
+              }
+            ],
+            "references": [
+              {
+                "source_id": "ref:aa6403ec4bd5e922db56e2b94e20dbd3077b798b",
+                "citation_link": "",
+                "excerpt": "Indian Public Health Standards"
+              },
+              {
+                "source_id": "ref:23cf4f7514b954a63cc0c0ac578bcf1a480af9fa",
+                "citation_link": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf",
+                "excerpt": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf Security School Safety and on 2021 —"
+              },
+              {
+                "source_id": "ref:ebab96585d76108b189c79b93c6edbf374da09e2",
+                "citation_link": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines-",
+                "excerpt": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines- 2022/03_PHC_IPHS_Guidelines-2022.pdf for Primary Health Centres 2022 —"
+              },
+              {
+                "source_id": "ref:c989656e1c831c048f6ac5f1f6c6b8bc8c476ded",
+                "citation_link": "https://pmposhan.education.gov.in/aboutus.html",
+                "excerpt": "PM POSHAN scheme overview — https://pmposhan.education.gov.in/aboutus.html WHO"
+              },
+              {
+                "source_id": "ref:5006cae89432ceba836b927d22f164ec40a0eb58",
+                "citation_link": "https://fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Safe_Food_Children_",
+                "excerpt": "Food Safety and Standards Safe Food and Balanced Diets for Children in School — Regulations https://fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Safe_Food_Children_ 07_09_2020.pdf 2020"
+              },
+              {
+                "source_id": "ref:13fb105cfd41740d42ff0283c1886972985f9f50",
+                "citation_link": "https://www.who.int/publications/i/item/9789240029392",
+                "excerpt": "https://www.who.int/publications/i/item/9789240029392 guideline school on health services — Guidelines"
+              }
+            ]
+          }
+        ],
+        "case_studies": [
+          {
+            "case_id": "AAF1601F-F703-4E09-8752-69CDCCCE7FE6",
+            "title": "Cluster Detection in a School: Febrile Rash Illness",
+            "vignette": "A 9-year-old boy in Class 4 at a government primary school in a semi-urban area of India presents to the school health room with a fever of 101.2°F and a red, non-itchy rash on his arms and trunk. He reports feeling tired and mentions that three of his classmates were absent today due to 'fever.' The school nurse notes that another child from the same class was sent home yesterday with similar symptoms. On examination, the boy appears mildly dehydrated but is alert and cooperative. He has no respiratory distress, vomiting, or neurological deficits. A teacher recalls that the class had a birthday celebration two days ago where food was shared. The nurse separates the boy from other students and documents his symptoms, onset time, and recent contacts. She begins compiling a list of other symptomatic students and informs the school principal about the potential cluster. The school contacts the local primary health center for guidance, while ensuring parents are notified to monitor their children for fever or rashes.",
+            "learning_objective": "To understand the importance of early recognition, isolation, and public health notification in suspected school-based clusters to prevent outbreak escalation.",
+            "word_count": 175,
+            "verified": true,
+            "mcqs": [
+              {
+                "question_id": "3889E6FE-27FE-442C-B755-0B0D10EF9391",
+                "stem": "What is the most appropriate next step after identifying a potential cluster of febrile rash illness in the school?",
+                "explanation": "Notifying local health authorities is the critical first step in managing a potential cluster. They provide direction on containment, testing, and further actions.",
+                "correct_choice": "Notify local health authorities",
+                "choices": [
+                  {
+                    "choice_index": 0,
+                    "choice_text": "Send all students home",
+                    "rationale": "Sending all students home is unnecessary and disruptive without further evaluation."
+                  },
+                  {
+                    "choice_index": 1,
+                    "choice_text": "Notify local health authorities",
+                    "rationale": "Correct: Public health notification ensures timely investigation and guidance."
+                  },
+                  {
+                    "choice_index": 2,
+                    "choice_text": "Announce diagnosis to parents",
+                    "rationale": "Premature announcements can cause panic and are not evidence-based."
+                  },
+                  {
+                    "choice_index": 3,
+                    "choice_text": "Close the school immediately",
+                    "rationale": "School closure is premature without public health advice."
+                  }
+                ],
+                "variants": [
+                  {
+                    "variant_no": 1,
+                    "stem": "What is the immediate priority after detecting a cluster of febrile rash illness in a school?",
+                    "correct_choice_index": 1
+                  },
+                  {
+                    "variant_no": 2,
+                    "stem": "Which action should follow identifying a febrile rash cluster in a school?",
+                    "correct_choice_index": 1
+                  }
+                ]
+              },
+              {
+                "question_id": "F2D8580C-24D1-4CD1-A469-D475C55ABF2E",
+                "stem": "What is the best immediate action for the symptomatic boy in the school health room?",
+                "explanation": "Isolating the symptomatic child and documenting symptoms are key steps to prevent transmission and support public health investigation.",
+                "correct_choice": "Isolate and document symptoms",
+                "choices": [
+                  {
+                    "choice_index": 0,
+                    "choice_text": "Wait for health authorities' arrival",
+                    "rationale": "Delaying action until authorities arrive risks further spread."
+                  },
+                  {
+                    "choice_index": 1,
+                    "choice_text": "Administer antibiotics immediately",
+                    "rationale": "Antibiotics are not indicated without a confirmed bacterial infection."
+                  },
+                  {
+                    "choice_index": 2,
+                    "choice_text": "Send him home without evaluation",
+                    "rationale": "Sending him home without evaluation misses the opportunity for cluster detection."
+                  },
+                  {
+                    "choice_index": 3,
+                    "choice_text": "Isolate and document symptoms",
+                    "rationale": "Correct: Isolation and documentation prevent further spread and aid investigation."
+                  }
+                ],
+                "variants": [
+                  {
+                    "variant_no": 1,
+                    "stem": "What is the first step in managing the symptomatic child in the school health room?",
+                    "correct_choice_index": 3
+                  },
+                  {
+                    "variant_no": 2,
+                    "stem": "How should the symptomatic boy in the school health room be managed immediately?",
+                    "correct_choice_index": 3
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "coverage_note": null,
+        "content_status": "OK"
+      },
+      {
+        "subtopic_id": "66FE24F9-A1AF-4DDA-9A11-7A2259F650F7",
+        "subtopic_title": "BLOOD PRESSURE MEASUREMENT AND HYPERTENSION REFERRAL DECISIONS",
+        "sequence_no": 4,
+        "category": null,
+        "concept": "- **Core concept:** Annual blood pressure (BP) measurement is recommended from age three years onward, with more frequent checks at every health contact for high-risk children, including those with obesity, diabetes, renal disease, coarctation history, sleep-disordered breathing, or hypertension-associated medications. Proper technique and interpretation are essential, including correct cuff size, child rest before measurement, and documentation of arm, position, and value. In younger children, BP interpretation is percentile-based by age, sex, and height, while older adolescents use absolute thresholds.\n- **Clinical application:** Schools should focus on case finding and safe escalation, not diagnosing hypertension. Elevated BP readings must be repeated for confirmation, and persistent abnormalities should trigger referral for clinical evaluation. Urgent referral is required for stage 2 BP values or symptoms such as severe headache, visual disturbances, chest pain, dyspnea, neurologic signs, edema, suspected renal disease, or repeated high BP in a child with obesity and acanthosis nigricans. Families should receive written documentation of the BP value, referral reason, and a note emphasizing that diagnosis requires medical confirmation.\n- **Safety/follow-up:** Schools must avoid alarming language when communicating elevated BP readings to families, instead emphasizing the need for medical review and providing recorded readings. Documentation should include cuff size, as incorrect sizing is a common source of false elevation. Follow-up completion and any clinician-advised activity restrictions should be recorded by the school. This approach ensures accurate diagnosis, avoids unnecessary anxiety, and facilitates timely medical intervention.",
+        "references": [
+          {
+            "source_id": "ref:ebab96585d76108b189c79b93c6edbf374da09e2",
+            "citation_link": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines-",
+            "excerpt": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines- 2022/03_PHC_IPHS_Guidelines-2022.pdf for Primary Health Centres 2022 —"
+          },
+          {
+            "source_id": "ref:560af641a2b0d4b83c899b12d030d33d56df7315",
+            "citation_link": "https://nhm.gov.in/WriteReadData/l892s/1405796031571201348.pdf",
+            "excerpt": "https://nhm.gov.in/WriteReadData/l892s/1405796031571201348.pdf Nutrition Survey 2016-2018 — Indian Public Health Standards"
+          },
+          {
+            "source_id": "ref:2cc553851be7943fe2001c3455a9df46714670cf",
+            "citation_link": "https://www.indianpediatrics.net/jan2015/47.pdf",
+            "excerpt": "Revised IAP growth charts for height weight and BMI for 5 to 18 year old Indian children — https://www.indianpediatrics.net/jan2015/47.pdf Comprehensive National"
+          },
+          {
+            "source_id": "ref:bedb4ace8c083eaa991022762283dfe126d286e1",
+            "citation_link": "https://publications.aap.org/book/chapter-",
+            "excerpt": "AAP clinical practice guideline for screening and management of high blood pressure https://publications.aap.org/book/chapter- adolescents — in pdf/1639893/aap_9781610027335-part01- clinical_practice_guideline_for_screening.pdf and"
+          }
+        ],
+        "questions": [
+          {
+            "question_id": "8C7E275E-7C70-4524-A0E2-38B0E4E969BA",
+            "stem": "A 12-year-old with obesity and acanthosis has repeated high BP readings. When should the school nurse refer the child urgently?",
+            "explanation": "The correct choice is 'Stage 2 hypertension values' because urgent referral is necessary for stage 2 hypertension to prevent complications.",
+            "correct_choice": "Stage 2 hypertension values",
+            "choices": [
+              {
+                "choice_index": 0,
+                "choice_text": "Normal BP for age",
+                "rationale": "Normal BP does not require referral."
+              },
+              {
+                "choice_index": 1,
+                "choice_text": "Stage 2 hypertension values",
+                "rationale": "Stage 2 hypertension requires urgent referral due to potential complications."
+              },
+              {
+                "choice_index": 2,
+                "choice_text": "Slightly elevated BP once",
+                "rationale": "Single slightly elevated BP reading should be repeated before considering referral."
+              },
+              {
+                "choice_index": 3,
+                "choice_text": "Stage 1 hypertension values",
+                "rationale": "Stage 1 hypertension requires monitoring but not urgent referral."
+              }
+            ],
+            "correct_choice_index": 1,
+            "variants": [
+              {
+                "variant_no": 1,
+                "stem": "When should a child with obesity and high BP be referred urgently?",
+                "correct_choice_index": 1
+              },
+              {
+                "variant_no": 2,
+                "stem": "What BP value warrants urgent referral in a child with obesity?",
+                "correct_choice_index": 1
+              }
+            ],
+            "references": [
+              {
+                "source_id": "ref:ebab96585d76108b189c79b93c6edbf374da09e2",
+                "citation_link": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines-",
+                "excerpt": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines- 2022/03_PHC_IPHS_Guidelines-2022.pdf for Primary Health Centres 2022 —"
+              },
+              {
+                "source_id": "ref:560af641a2b0d4b83c899b12d030d33d56df7315",
+                "citation_link": "https://nhm.gov.in/WriteReadData/l892s/1405796031571201348.pdf",
+                "excerpt": "https://nhm.gov.in/WriteReadData/l892s/1405796031571201348.pdf Nutrition Survey 2016-2018 — Indian Public Health Standards"
+              },
+              {
+                "source_id": "ref:2cc553851be7943fe2001c3455a9df46714670cf",
+                "citation_link": "https://www.indianpediatrics.net/jan2015/47.pdf",
+                "excerpt": "Revised IAP growth charts for height weight and BMI for 5 to 18 year old Indian children — https://www.indianpediatrics.net/jan2015/47.pdf Comprehensive National"
+              },
+              {
+                "source_id": "ref:bedb4ace8c083eaa991022762283dfe126d286e1",
+                "citation_link": "https://publications.aap.org/book/chapter-",
+                "excerpt": "AAP clinical practice guideline for screening and management of high blood pressure https://publications.aap.org/book/chapter- adolescents — in pdf/1639893/aap_9781610027335-part01- clinical_practice_guideline_for_screening.pdf and"
+              }
+            ]
+          },
+          {
+            "question_id": "4148841B-77C4-4DFE-8AD4-849CE42BD42C",
+            "stem": "A 10-year-old child undergoes a school-based BP screening. Which step ensures accurate blood pressure measurement?",
+            "explanation": "The correct choice is 'Use correct cuff size' because using an appropriately sized cuff is essential for accurate BP measurement and avoiding false elevations.",
+            "correct_choice": "Use correct cuff size",
+            "choices": [
+              {
+                "choice_index": 0,
+                "choice_text": "Measure BP immediately after exercise",
+                "rationale": "Measuring BP after exercise can lead to falsely elevated readings."
+              },
+              {
+                "choice_index": 1,
+                "choice_text": "Use correct cuff size",
+                "rationale": "Correct cuff size ensures accurate BP readings and avoids false elevation."
+              },
+              {
+                "choice_index": 2,
+                "choice_text": "Ignore child's height percentile",
+                "rationale": "Height percentile is crucial for interpreting BP in children."
+              },
+              {
+                "choice_index": 3,
+                "choice_text": "Document only systolic BP",
+                "rationale": "Both systolic and diastolic BP values must be documented."
+              }
+            ],
+            "correct_choice_index": 1,
+            "variants": [
+              {
+                "variant_no": 1,
+                "stem": "During school BP screening, what ensures accurate measurement?",
+                "correct_choice_index": 1
+              },
+              {
+                "variant_no": 2,
+                "stem": "Which step is key for accurate BP readings in children?",
+                "correct_choice_index": 1
+              }
+            ],
+            "references": [
+              {
+                "source_id": "ref:ebab96585d76108b189c79b93c6edbf374da09e2",
+                "citation_link": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines-",
+                "excerpt": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines- 2022/03_PHC_IPHS_Guidelines-2022.pdf for Primary Health Centres 2022 —"
+              },
+              {
+                "source_id": "ref:560af641a2b0d4b83c899b12d030d33d56df7315",
+                "citation_link": "https://nhm.gov.in/WriteReadData/l892s/1405796031571201348.pdf",
+                "excerpt": "https://nhm.gov.in/WriteReadData/l892s/1405796031571201348.pdf Nutrition Survey 2016-2018 — Indian Public Health Standards"
+              },
+              {
+                "source_id": "ref:2cc553851be7943fe2001c3455a9df46714670cf",
+                "citation_link": "https://www.indianpediatrics.net/jan2015/47.pdf",
+                "excerpt": "Revised IAP growth charts for height weight and BMI for 5 to 18 year old Indian children — https://www.indianpediatrics.net/jan2015/47.pdf Comprehensive National"
+              },
+              {
+                "source_id": "ref:bedb4ace8c083eaa991022762283dfe126d286e1",
+                "citation_link": "https://publications.aap.org/book/chapter-",
+                "excerpt": "AAP clinical practice guideline for screening and management of high blood pressure https://publications.aap.org/book/chapter- adolescents — in pdf/1639893/aap_9781610027335-part01- clinical_practice_guideline_for_screening.pdf and"
+              }
+            ]
+          }
+        ],
+        "case_studies": [],
+        "coverage_note": null,
+        "content_status": "OK"
+      },
+      {
+        "subtopic_id": "37D78248-35CC-4E5B-9C09-824F9C91FB2C",
+        "subtopic_title": "SEIZURE FIRST AID RESCUE MEDICATION THRESHOLDS AND REFERRAL",
+        "sequence_no": 5,
+        "category": null,
+        "concept": "- **Core concept:** Routine seizure first aid in schools involves actions such as noting the time, protecting the child from hazards, placing them on their side when feasible, loosening tight clothing, and maintaining dignity. Staff must avoid restraining movements, inserting objects into the mouth, forcing food or water, or crowding the child. Rescue medication is distinct from routine first aid and should only be administered per a clinician’s written order specifying the drug, dose, route, storage requirements, and exact seizure thresholds like prolonged seizures or cluster patterns.\n- **Clinical application:** Urgent medical evaluation is mandatory for a first afebrile seizure, seizures exceeding the care-plan threshold, repeated seizures without recovery, breathing difficulty, cyanosis, injury, persistent altered sensorium, or seizures in water. Additional triggers for referral include pregnancy, diabetes, or suspected poisoning. Schools must document seizure duration, description, triggers, injuries, rescue treatment, and transfer decisions, then communicate this information to the family and clinician. Teachers should be trained to recognize diverse seizure presentations, including brief staring spells or impaired awareness, but suspected events always require clinician evaluation.\n- **Safety/follow-up:** Children with epilepsy should not face blanket restrictions on academics or supervised play; any limitations must be individualized based on risk assessment. Schools should avoid diagnosing seizures based solely on observation and must refer suspected events for clinical evaluation. Staff administering rescue medication must be trained and follow strict storage and administration protocols as outlined in the clinician’s care plan. Post-recovery follow-up includes ensuring proper documentation and timely communication with families and healthcare providers.",
+        "references": [
+          {
+            "source_id": "ref:2245e8a2c44abd4e5ba9273b4ff979fa72e4817f",
+            "citation_link": "https://www.nice.org.uk/guidance/ng217/resources/epilepsies-in-children-young-",
+            "excerpt": "NICE guideline on epilepsies https://www.nice.org.uk/guidance/ng217/resources/epilepsies-in-children-young- people-and-adults-pdf-66143780239813 in children young people and adults — Guidelines"
+          },
+          {
+            "source_id": "ref:561607d4bc885744cdd08ccd885bc9a226a9ef0e",
+            "citation_link": "https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O",
+            "excerpt": "Operational guidelines on School Health Programme under Ayushman Bharat — https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O perational_guidelines_on_School_Health_Programme_under_Ayushman_Bharat.pdf"
+          },
+          {
+            "source_id": "ref:34c3dee9dfd6a78e598c09af72dd7bf831cb8cfa",
+            "citation_link": "https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi",
+            "excerpt": "https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi th_disabilities_act%2C_2016.pdf Disabilities Persons 2016 Act —"
+          },
+          {
+            "source_id": "ref:0867de5ac97a189215fcb5df5586219892554aa3",
+            "citation_link": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf",
+            "excerpt": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf Security School Safety and on 2021 — of Rights with"
+          }
+        ],
+        "questions": [
+          {
+            "question_id": "2EA69767-DBC2-4FCA-ADEB-17A7B740A69E",
+            "stem": "What is the next step after Ramesh's seizure exceeds the care-plan threshold and rescue medication is administered?",
+            "explanation": "Prolonged seizures exceeding the care-plan threshold, especially with cyanosis and altered sensorium, require immediate emergency medical evaluation.",
+            "correct_choice": "Call emergency medical services",
+            "choices": [
+              {
+                "choice_index": 0,
+                "choice_text": "Monitor and inform parents only",
+                "rationale": "Monitoring alone is insufficient for prolonged seizures with cyanosis."
+              },
+              {
+                "choice_index": 1,
+                "choice_text": "Call emergency medical services",
+                "rationale": "Emergency medical services are needed for prolonged seizures exceeding care-plan thresholds."
+              },
+              {
+                "choice_index": 2,
+                "choice_text": "Wait for seizure to stop",
+                "rationale": "Waiting without action risks complications in prolonged seizures."
+              },
+              {
+                "choice_index": 3,
+                "choice_text": "Administer a second rescue dose",
+                "rationale": "A second rescue dose is not mentioned in the care plan."
+              }
+            ],
+            "correct_choice_index": 1,
+            "variants": [
+              {
+                "variant_no": 1,
+                "stem": "What is the appropriate action for Ramesh's prolonged seizure after rescue medication fails?",
+                "correct_choice_index": 1
+              },
+              {
+                "variant_no": 2,
+                "stem": "What should the school staff do after administering rescue medication and the seizure persists?",
+                "correct_choice_index": 1
+              }
+            ],
+            "references": [
+              {
+                "source_id": "ref:2245e8a2c44abd4e5ba9273b4ff979fa72e4817f",
+                "citation_link": "https://www.nice.org.uk/guidance/ng217/resources/epilepsies-in-children-young-",
+                "excerpt": "NICE guideline on epilepsies https://www.nice.org.uk/guidance/ng217/resources/epilepsies-in-children-young- people-and-adults-pdf-66143780239813 in children young people and adults — Guidelines"
+              },
+              {
+                "source_id": "ref:561607d4bc885744cdd08ccd885bc9a226a9ef0e",
+                "citation_link": "https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O",
+                "excerpt": "Operational guidelines on School Health Programme under Ayushman Bharat — https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O perational_guidelines_on_School_Health_Programme_under_Ayushman_Bharat.pdf"
+              },
+              {
+                "source_id": "ref:34c3dee9dfd6a78e598c09af72dd7bf831cb8cfa",
+                "citation_link": "https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi",
+                "excerpt": "https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi th_disabilities_act%2C_2016.pdf Disabilities Persons 2016 Act —"
+              },
+              {
+                "source_id": "ref:0867de5ac97a189215fcb5df5586219892554aa3",
+                "citation_link": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf",
+                "excerpt": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf Security School Safety and on 2021 — of Rights with"
+              }
+            ]
+          },
+          {
+            "question_id": "8A3EEA5A-F2DE-4171-8A73-2BFCA102F589",
+            "stem": "When should school staff administer seizure rescue medication to a child?",
+            "explanation": "Rescue medication should only be administered 'Per clinician's written order' specifying the drug, dose, and seizure thresholds.",
+            "correct_choice": "Per clinician's written order",
+            "choices": [
+              {
+                "choice_index": 0,
+                "choice_text": "Whenever a seizure is witnessed",
+                "rationale": "Rescue medication is not indicated for every seizure; criteria must be met."
+              },
+              {
+                "choice_index": 1,
+                "choice_text": "Per clinician's written order",
+                "rationale": "Rescue medication must be administered only as per a clinician’s written order specifying thresholds."
+              },
+              {
+                "choice_index": 2,
+                "choice_text": "After two minutes of any seizure",
+                "rationale": "Not all seizures require rescue medication; thresholds must be clinician-specified."
+              },
+              {
+                "choice_index": 3,
+                "choice_text": "If the child loses consciousness",
+                "rationale": "Loss of consciousness alone does not warrant rescue medication without clinician guidance."
+              }
+            ],
+            "correct_choice_index": 1,
+            "variants": [
+              {
+                "variant_no": 1,
+                "stem": "Under what conditions should seizure rescue medication be given in schools?",
+                "correct_choice_index": 1
+              },
+              {
+                "variant_no": 2,
+                "stem": "What is the key criterion for administering seizure rescue medication in schools?",
+                "correct_choice_index": 1
+              }
+            ],
+            "references": [
+              {
+                "source_id": "ref:2245e8a2c44abd4e5ba9273b4ff979fa72e4817f",
+                "citation_link": "https://www.nice.org.uk/guidance/ng217/resources/epilepsies-in-children-young-",
+                "excerpt": "NICE guideline on epilepsies https://www.nice.org.uk/guidance/ng217/resources/epilepsies-in-children-young- people-and-adults-pdf-66143780239813 in children young people and adults — Guidelines"
+              },
+              {
+                "source_id": "ref:561607d4bc885744cdd08ccd885bc9a226a9ef0e",
+                "citation_link": "https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O",
+                "excerpt": "Operational guidelines on School Health Programme under Ayushman Bharat — https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O perational_guidelines_on_School_Health_Programme_under_Ayushman_Bharat.pdf"
+              },
+              {
+                "source_id": "ref:34c3dee9dfd6a78e598c09af72dd7bf831cb8cfa",
+                "citation_link": "https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi",
+                "excerpt": "https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi th_disabilities_act%2C_2016.pdf Disabilities Persons 2016 Act —"
+              },
+              {
+                "source_id": "ref:0867de5ac97a189215fcb5df5586219892554aa3",
+                "citation_link": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf",
+                "excerpt": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf Security School Safety and on 2021 — of Rights with"
+              }
+            ]
+          },
+          {
+            "question_id": "FAE69E38-07E2-4679-A96D-BA276B8181E7",
+            "stem": "A 10-year-old has a seizure lasting 8 minutes. What should school staff do next?",
+            "explanation": "Staff must 'Call for urgent medical help' for seizures exceeding the care-plan threshold, such as when lasting 8 minutes.",
+            "correct_choice": "Call for urgent medical help",
+            "choices": [
+              {
+                "choice_index": 0,
+                "choice_text": "Call for urgent medical help",
+                "rationale": "Seizures exceeding the care-plan threshold, such as prolonged seizures, require urgent medical evaluation."
+              },
+              {
+                "choice_index": 1,
+                "choice_text": "Wait for the seizure to stop",
+                "rationale": "Waiting is unsafe for prolonged seizures; urgent action is needed."
+              },
+              {
+                "choice_index": 2,
+                "choice_text": "Administer food or water",
+                "rationale": "Providing food or water during a seizure is contraindicated and unsafe."
+              },
+              {
+                "choice_index": 3,
+                "choice_text": "Restrain the child's movements",
+                "rationale": "Restraining movements during a seizure is inappropriate and can cause harm."
+              }
+            ],
+            "correct_choice_index": 0,
+            "variants": [
+              {
+                "variant_no": 1,
+                "stem": "What is the appropriate response when a seizure lasts longer than the care-plan threshold?",
+                "correct_choice_index": 0
+              },
+              {
+                "variant_no": 2,
+                "stem": "How should school staff respond to a prolonged seizure in a child?",
+                "correct_choice_index": 0
+              }
+            ],
+            "references": [
+              {
+                "source_id": "ref:2245e8a2c44abd4e5ba9273b4ff979fa72e4817f",
+                "citation_link": "https://www.nice.org.uk/guidance/ng217/resources/epilepsies-in-children-young-",
+                "excerpt": "NICE guideline on epilepsies https://www.nice.org.uk/guidance/ng217/resources/epilepsies-in-children-young- people-and-adults-pdf-66143780239813 in children young people and adults — Guidelines"
+              },
+              {
+                "source_id": "ref:561607d4bc885744cdd08ccd885bc9a226a9ef0e",
+                "citation_link": "https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O",
+                "excerpt": "Operational guidelines on School Health Programme under Ayushman Bharat — https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O perational_guidelines_on_School_Health_Programme_under_Ayushman_Bharat.pdf"
+              },
+              {
+                "source_id": "ref:34c3dee9dfd6a78e598c09af72dd7bf831cb8cfa",
+                "citation_link": "https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi",
+                "excerpt": "https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi th_disabilities_act%2C_2016.pdf Disabilities Persons 2016 Act —"
+              },
+              {
+                "source_id": "ref:0867de5ac97a189215fcb5df5586219892554aa3",
+                "citation_link": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf",
+                "excerpt": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf Security School Safety and on 2021 — of Rights with"
+              }
+            ]
+          },
+          {
+            "question_id": "EA119037-EFCF-402B-9923-F9AE94642034",
+            "stem": "What is a key reason for referring Ramesh for urgent medical evaluation after the seizure?",
+            "explanation": "Persistent altered sensorium after a seizure is a clinical red flag necessitating urgent medical evaluation to rule out complications.",
+            "correct_choice": "Persistent altered sensorium",
+            "choices": [
+              {
+                "choice_index": 0,
+                "choice_text": "No rescue medication was given",
+                "rationale": "Rescue medication was administered as per the care plan."
+              },
+              {
+                "choice_index": 1,
+                "choice_text": "Seizure lasted less than 5 minutes",
+                "rationale": "The seizure lasted over 5 minutes, not less."
+              },
+              {
+                "choice_index": 2,
+                "choice_text": "Persistent altered sensorium",
+                "rationale": "Persistent altered sensorium is a red flag requiring urgent medical evaluation."
+              },
+              {
+                "choice_index": 3,
+                "choice_text": "Care plan documentation is incomplete",
+                "rationale": "Care plan documentation is unrelated to the need for urgent evaluation."
+              }
+            ],
+            "correct_choice_index": 2,
+            "variants": [
+              {
+                "variant_no": 1,
+                "stem": "Why should Ramesh be referred for emergency care after his seizure?",
+                "correct_choice_index": 2
+              },
+              {
+                "variant_no": 2,
+                "stem": "What clinical sign in Ramesh necessitates urgent medical referral post-seizure?",
+                "correct_choice_index": 2
+              }
+            ],
+            "references": [
+              {
+                "source_id": "ref:2245e8a2c44abd4e5ba9273b4ff979fa72e4817f",
+                "citation_link": "https://www.nice.org.uk/guidance/ng217/resources/epilepsies-in-children-young-",
+                "excerpt": "NICE guideline on epilepsies https://www.nice.org.uk/guidance/ng217/resources/epilepsies-in-children-young- people-and-adults-pdf-66143780239813 in children young people and adults — Guidelines"
+              },
+              {
+                "source_id": "ref:561607d4bc885744cdd08ccd885bc9a226a9ef0e",
+                "citation_link": "https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O",
+                "excerpt": "Operational guidelines on School Health Programme under Ayushman Bharat — https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O perational_guidelines_on_School_Health_Programme_under_Ayushman_Bharat.pdf"
+              },
+              {
+                "source_id": "ref:34c3dee9dfd6a78e598c09af72dd7bf831cb8cfa",
+                "citation_link": "https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi",
+                "excerpt": "https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi th_disabilities_act%2C_2016.pdf Disabilities Persons 2016 Act —"
+              },
+              {
+                "source_id": "ref:0867de5ac97a189215fcb5df5586219892554aa3",
+                "citation_link": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf",
+                "excerpt": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf Security School Safety and on 2021 — of Rights with"
+              }
+            ]
+          }
+        ],
+        "case_studies": [
+          {
+            "case_id": "9011E990-A5CA-4ADC-96C0-D22B01FD042B",
+            "title": "Seizure Management in a School Setting",
+            "vignette": "A 10-year-old boy, Ramesh, who has a known history of epilepsy and a documented care plan, experiences a seizure during a morning assembly at his school in rural India. The teacher notices he suddenly falls to the ground and begins jerking movements lasting over 5 minutes. The staff quickly moves him to a safe area, noting the time of onset and ensuring his airway is clear by turning him on his side. His jerking movements persist despite first aid measures, and he begins to show signs of cyanosis. Per his care plan, the school nurse prepares the prescribed rescue medication, but the seizure duration exceeds the threshold outlined in his care plan, prompting the staff to call for emergency medical assistance. After the seizure subsides, Ramesh remains drowsy with persistent altered sensorium. The school documents the event, including seizure duration, description, and the steps taken, and informs his parents and clinician promptly.",
+            "learning_objective": "Recognize situations requiring rescue medication administration and urgent referral for prolonged seizures or complications in a school setting.",
+            "word_count": 154,
+            "verified": true,
+            "mcqs": [
+              {
+                "question_id": "2EA69767-DBC2-4FCA-ADEB-17A7B740A69E",
+                "stem": "What is the next step after Ramesh's seizure exceeds the care-plan threshold and rescue medication is administered?",
+                "explanation": "Prolonged seizures exceeding the care-plan threshold, especially with cyanosis and altered sensorium, require immediate emergency medical evaluation.",
+                "correct_choice": "Call emergency medical services",
+                "choices": [
+                  {
+                    "choice_index": 0,
+                    "choice_text": "Monitor and inform parents only",
+                    "rationale": "Monitoring alone is insufficient for prolonged seizures with cyanosis."
+                  },
+                  {
+                    "choice_index": 1,
+                    "choice_text": "Call emergency medical services",
+                    "rationale": "Emergency medical services are needed for prolonged seizures exceeding care-plan thresholds."
+                  },
+                  {
+                    "choice_index": 2,
+                    "choice_text": "Wait for seizure to stop",
+                    "rationale": "Waiting without action risks complications in prolonged seizures."
+                  },
+                  {
+                    "choice_index": 3,
+                    "choice_text": "Administer a second rescue dose",
+                    "rationale": "A second rescue dose is not mentioned in the care plan."
+                  }
+                ],
+                "variants": [
+                  {
+                    "variant_no": 1,
+                    "stem": "What is the appropriate action for Ramesh's prolonged seizure after rescue medication fails?",
+                    "correct_choice_index": 1
+                  },
+                  {
+                    "variant_no": 2,
+                    "stem": "What should the school staff do after administering rescue medication and the seizure persists?",
+                    "correct_choice_index": 1
+                  }
+                ]
+              },
+              {
+                "question_id": "EA119037-EFCF-402B-9923-F9AE94642034",
+                "stem": "What is a key reason for referring Ramesh for urgent medical evaluation after the seizure?",
+                "explanation": "Persistent altered sensorium after a seizure is a clinical red flag necessitating urgent medical evaluation to rule out complications.",
+                "correct_choice": "Persistent altered sensorium",
+                "choices": [
+                  {
+                    "choice_index": 0,
+                    "choice_text": "No rescue medication was given",
+                    "rationale": "Rescue medication was administered as per the care plan."
+                  },
+                  {
+                    "choice_index": 1,
+                    "choice_text": "Seizure lasted less than 5 minutes",
+                    "rationale": "The seizure lasted over 5 minutes, not less."
+                  },
+                  {
+                    "choice_index": 2,
+                    "choice_text": "Persistent altered sensorium",
+                    "rationale": "Persistent altered sensorium is a red flag requiring urgent medical evaluation."
+                  },
+                  {
+                    "choice_index": 3,
+                    "choice_text": "Care plan documentation is incomplete",
+                    "rationale": "Care plan documentation is unrelated to the need for urgent evaluation."
+                  }
+                ],
+                "variants": [
+                  {
+                    "variant_no": 1,
+                    "stem": "Why should Ramesh be referred for emergency care after his seizure?",
+                    "correct_choice_index": 2
+                  },
+                  {
+                    "variant_no": 2,
+                    "stem": "What clinical sign in Ramesh necessitates urgent medical referral post-seizure?",
+                    "correct_choice_index": 2
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "coverage_note": null,
+        "content_status": "OK"
+      },
+      {
+        "subtopic_id": "5C4AB81D-2EFA-4BF7-A5AE-E1FCC2BD61DA",
+        "subtopic_title": "REFERRAL CLOSURE THROUGH RBSK AFHC DEIC AND TELE MENTAL HEALTH SERVICES",
+        "sequence_no": 6,
+        "category": null,
+        "concept": "- **Core concept:** A robust referral system must define destination, completion, and closure to ensure effective care. The Rashtriya Bal Swasthya Karyakram (RBSK) is the primary public platform for screening and linking children up to 18 years with free treatment services. DEIC services focus on diagnosis and early intervention for developmental and disability-related concerns, while Adolescent Friendly Health Clinics (AFHCs) under RKSK address issues like menstruation, nutrition, sexual and reproductive health, substance use, and psychosocial concerns. Tele-MANAS provides a national tele-mental health service and should be prominently displayed alongside other helplines in relevant settings.\n- **Clinical application:** Referral completion should be documented as attendance at the designated service, while referral closure requires clinician feedback indicating treatment initiation, follow-up planning, accommodation advice, or disease exclusion. Pediatricians should develop referral templates that specify the suspected condition, urgency, destination, interim school precautions, caregiver instructions, and follow-up dates. Children with critical conditions such as vision impairment, anemia, severe menstrual symptoms, suicidality, seizures, diabetes, disability, or suspected abuse must not be lost in untracked referrals. For unresolved referrals, reasons such as cost, distance, stigma, or lost contact should be recorded, as each demands a tailored solution.\n- **Safety/follow-up:** Unresolved referrals should be treated as pending clinical work during district reviews, ensuring accountability and continuity of care. Pediatricians play a key role in preventing errors like counting a written referral as a success without ensuring follow-through. Referral systems should be monitored to address barriers such as unavailable appointments or caregiver refusal, which can jeopardize outcomes. Tracking and resolving these issues is critical to safeguarding vulnerable children and ensuring equitable access to healthcare services.",
+        "references": [
+          {
+            "source_id": "ref:7773e0856e4dea110d87e1accfde01aeebe430ad",
+            "citation_link": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=421&sublinkid=1247",
+            "excerpt": "programme Swasthya https://nhm.gov.in/index1.php?lang=1&level=3&lid=421&sublinkid=1247 Karyakram Kishor Tele-MANAS"
+          },
+          {
+            "source_id": "ref:561607d4bc885744cdd08ccd885bc9a226a9ef0e",
+            "citation_link": "https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O",
+            "excerpt": "Operational guidelines on School Health Programme under Ayushman Bharat — https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O perational_guidelines_on_School_Health_Programme_under_Ayushman_Bharat.pdf"
+          },
+          {
+            "source_id": "ref:90123299b5dc99c9a0079f299d1bbada3ba40eed",
+            "citation_link": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines-",
+            "excerpt": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines- 2022/03_PHC_IPHS_Guidelines-2022.pdf for Primary Health Centres 2022 — Rashtriya"
+          },
+          {
+            "source_id": "ref:fe45713582457d0cbafddc3d5819a383cf1e2c17",
+            "citation_link": "https://nhm.gov.in/index4.php?lang=1&level=0&lid=773&linkid=499",
+            "excerpt": "Rashtriya Bal https://nhm.gov.in/index4.php?lang=1&level=0&lid=773&linkid=499 Karyakram Swasthya official programme page — Indian Public Health Standards"
+          },
+          {
+            "source_id": "ref:c05c476e4fa77561a0a75e3b5445751480fce564",
+            "citation_link": "https://nhm.gov.in/index4.php?lang=1&level=0&lid=773&linkid=499",
+            "excerpt": "https://nhm.gov.in/index4.php?lang=1&level=0&lid=773&linkid=499 tele mental national health programme page — page —"
+          }
+        ],
+        "questions": [
+          {
+            "question_id": "D78491B4-4BF6-4F74-AFC2-6623ADCF62EF",
+            "stem": "A 15-year-old girl with severe menstrual symptoms was referred to an AFHC but missed her appointment. What is the next step to ensure referral completion?",
+            "explanation": "Documenting barriers is essential to address reasons for missed appointments and ensure referral completion for high-priority cases.",
+            "correct_choice": "Document barriers",
+            "choices": [
+              {
+                "choice_index": 0,
+                "choice_text": "Close referral",
+                "rationale": "Referral closure requires documented attendance and clinician feedback, which has not occurred yet."
+              },
+              {
+                "choice_index": 1,
+                "choice_text": "Repeat screening",
+                "rationale": "Repeat screening is unnecessary unless new symptoms arise; focus should remain on the initial referral."
+              },
+              {
+                "choice_index": 2,
+                "choice_text": "Ignore follow-up",
+                "rationale": "Ignoring follow-up risks loss to care for urgent conditions and is not appropriate."
+              },
+              {
+                "choice_index": 3,
+                "choice_text": "Document barriers",
+                "rationale": "Documenting barriers like stigma or caregiver refusal is crucial for addressing non-completion and ensuring follow-up."
+              }
+            ],
+            "correct_choice_index": 3,
+            "variants": [
+              {
+                "variant_no": 1,
+                "stem": "A 16-year-old boy with suspected substance use missed his Tele-MANAS appointment. What is the next step to ensure referral completion?",
+                "correct_choice_index": 3
+              },
+              {
+                "variant_no": 2,
+                "stem": "A 14-year-old girl with vision issues missed her DEIC appointment. What step ensures referral completion?",
+                "correct_choice_index": 3
+              }
+            ],
+            "references": [
+              {
+                "source_id": "ref:7773e0856e4dea110d87e1accfde01aeebe430ad",
+                "citation_link": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=421&sublinkid=1247",
+                "excerpt": "programme Swasthya https://nhm.gov.in/index1.php?lang=1&level=3&lid=421&sublinkid=1247 Karyakram Kishor Tele-MANAS"
+              },
+              {
+                "source_id": "ref:561607d4bc885744cdd08ccd885bc9a226a9ef0e",
+                "citation_link": "https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O",
+                "excerpt": "Operational guidelines on School Health Programme under Ayushman Bharat — https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O perational_guidelines_on_School_Health_Programme_under_Ayushman_Bharat.pdf"
+              },
+              {
+                "source_id": "ref:90123299b5dc99c9a0079f299d1bbada3ba40eed",
+                "citation_link": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines-",
+                "excerpt": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines- 2022/03_PHC_IPHS_Guidelines-2022.pdf for Primary Health Centres 2022 — Rashtriya"
+              },
+              {
+                "source_id": "ref:fe45713582457d0cbafddc3d5819a383cf1e2c17",
+                "citation_link": "https://nhm.gov.in/index4.php?lang=1&level=0&lid=773&linkid=499",
+                "excerpt": "Rashtriya Bal https://nhm.gov.in/index4.php?lang=1&level=0&lid=773&linkid=499 Karyakram Swasthya official programme page — Indian Public Health Standards"
+              },
+              {
+                "source_id": "ref:c05c476e4fa77561a0a75e3b5445751480fce564",
+                "citation_link": "https://nhm.gov.in/index4.php?lang=1&level=0&lid=773&linkid=499",
+                "excerpt": "https://nhm.gov.in/index4.php?lang=1&level=0&lid=773&linkid=499 tele mental national health programme page — page —"
+              }
+            ]
+          },
+          {
+            "question_id": "D90494F1-95FB-4F69-A6A1-8FA799CCD2E4",
+            "stem": "What is a key component of referral closure under RBSK, AFHC, DEIC, and Tele-MANAS?",
+            "explanation": "Clinician feedback is required for referral closure, as it confirms treatment initiation, follow-up planning, or ruling out disease.",
+            "correct_choice": "Clinician feedback",
+            "choices": [
+              {
+                "choice_index": 0,
+                "choice_text": "Clinician feedback",
+                "rationale": "Clinician feedback is essential for confirming treatment initiation, follow-up planning, or ruling out disease."
+              },
+              {
+                "choice_index": 1,
+                "choice_text": "Caregiver refusal",
+                "rationale": "Caregiver refusal is a barrier to referral completion but does not define closure."
+              },
+              {
+                "choice_index": 2,
+                "choice_text": "Referral destination",
+                "rationale": "Referral destination defines where the child receives services but does not complete the closure process."
+              },
+              {
+                "choice_index": 3,
+                "choice_text": "School precautions",
+                "rationale": "School precautions are interim measures but do not constitute referral closure."
+              }
+            ],
+            "correct_choice_index": 0,
+            "variants": [
+              {
+                "variant_no": 1,
+                "stem": "Which factor confirms referral closure under RBSK, AFHC, DEIC, and Tele-MANAS?",
+                "correct_choice_index": 0
+              },
+              {
+                "variant_no": 2,
+                "stem": "Referral closure under RBSK, AFHC, DEIC, and Tele-MANAS requires what key step?",
+                "correct_choice_index": 0
+              }
+            ],
+            "references": [
+              {
+                "source_id": "ref:7773e0856e4dea110d87e1accfde01aeebe430ad",
+                "citation_link": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=421&sublinkid=1247",
+                "excerpt": "programme Swasthya https://nhm.gov.in/index1.php?lang=1&level=3&lid=421&sublinkid=1247 Karyakram Kishor Tele-MANAS"
+              },
+              {
+                "source_id": "ref:561607d4bc885744cdd08ccd885bc9a226a9ef0e",
+                "citation_link": "https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O",
+                "excerpt": "Operational guidelines on School Health Programme under Ayushman Bharat — https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O perational_guidelines_on_School_Health_Programme_under_Ayushman_Bharat.pdf"
+              },
+              {
+                "source_id": "ref:90123299b5dc99c9a0079f299d1bbada3ba40eed",
+                "citation_link": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines-",
+                "excerpt": "https://nhm.gov.in/images/pdf/guidelines/iphs/iphs-revised-guidlines- 2022/03_PHC_IPHS_Guidelines-2022.pdf for Primary Health Centres 2022 — Rashtriya"
+              },
+              {
+                "source_id": "ref:fe45713582457d0cbafddc3d5819a383cf1e2c17",
+                "citation_link": "https://nhm.gov.in/index4.php?lang=1&level=0&lid=773&linkid=499",
+                "excerpt": "Rashtriya Bal https://nhm.gov.in/index4.php?lang=1&level=0&lid=773&linkid=499 Karyakram Swasthya official programme page — Indian Public Health Standards"
+              },
+              {
+                "source_id": "ref:c05c476e4fa77561a0a75e3b5445751480fce564",
+                "citation_link": "https://nhm.gov.in/index4.php?lang=1&level=0&lid=773&linkid=499",
+                "excerpt": "https://nhm.gov.in/index4.php?lang=1&level=0&lid=773&linkid=499 tele mental national health programme page — page —"
+              }
+            ]
+          }
+        ],
+        "case_studies": [],
+        "coverage_note": null,
+        "content_status": "OK"
+      },
+      {
+        "subtopic_id": "D18AFC2A-84C5-40E9-B419-8BE7091C1B96",
+        "subtopic_title": "PRIVATE SCHOOL OUT OF SCHOOL ADOLESCENT AND EQUITY ADAPTATIONS",
+        "sequence_no": 7,
+        "category": null,
+        "concept": "- **Core concept:** Equity gaps in school health programs arise when private schools and out-of-school adolescents are excluded from interventions typically focused on government and government-aided schools. Essential components like safe food, tobacco-free compliance, emergency action plans, child protection, immunization verification, and referral systems must extend to private schools. Out-of-school adolescents, who are not captured by school-based metrics, require targeted community-based approaches to address their health needs effectively.\n- **Clinical application:** Local pediatricians can play a pivotal role in bridging gaps by fostering collaboration between private schools, nearby public health facilities, and families using private care. Community outreach through ASHA workers, Anganwadi platforms, and adolescent-friendly services is critical for addressing anemia prevention, deworming, menstrual health, immunization, mental health, and substance-use risks among out-of-school adolescents. Gender and disability adaptations are essential, as girls may avoid school due to inadequate toilets, menstruation-related stigma, harassment, or anemia, while children with disabilities face barriers like inaccessible toilets, communication challenges, and bullying.\n- **Safety/follow-up:** Equity monitoring should disaggregate data by sex, age, disability, school type, hostel residence, and absentee status to identify and address the most vulnerable groups. Programs must report not only enrolled-school coverage but also the inclusion of missed adolescents, absentee children, private-school linkages, and marginalized groups such as disabled children, migrants, and socioeconomically disadvantaged families. Aggregated averages can obscure critical barriers like inaccessible transport, which must be explicitly addressed to ensure comprehensive program success.",
+        "references": [
+          {
+            "source_id": "ref:23cf4f7514b954a63cc0c0ac578bcf1a480af9fa",
+            "citation_link": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf",
+            "excerpt": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf Security School Safety and on 2021 —"
+          },
+          {
+            "source_id": "ref:bddcf87dbd587447309cecd81bcc42212201442d",
+            "citation_link": "https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi",
+            "excerpt": "with https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi th_disabilities_act%2C_2016.pdf Disabilities Persons 2016 Act —"
+          },
+          {
+            "source_id": "ref:d7b69392b7b86e577155febf2bd1855bcdf40ee8",
+            "citation_link": "https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O",
+            "excerpt": "Operational guidelines on School Health Programme under Ayushman Bharat — https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O perational_guidelines_on_School_Health_Programme_under_Ayushman_Bharat.pdf Rashtriya"
+          },
+          {
+            "source_id": "ref:f98e480d8e5ab1d73998f38bb4760cf624ad4e77",
+            "citation_link": "https://nhm.gov.in/New-Update-",
+            "excerpt": "Menstrual Hygiene Policy for School-Going Girls — https://nhm.gov.in/New-Update- 2025-26/Adolescent-Health/Menstrual-Hygiene-Policy/Menstrual-Hygiene-Policy-for- School-Going-Girls.pdf Guidelines"
+          },
+          {
+            "source_id": "ref:65a22f908524c026600a2825acc7cc59392fa6c7",
+            "citation_link": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=421&sublinkid=1247",
+            "excerpt": "programme Swasthya https://nhm.gov.in/index1.php?lang=1&level=3&lid=421&sublinkid=1247 Karyakram Kishor page — of Rights"
+          }
+        ],
+        "questions": [
+          {
+            "question_id": "0450BE91-F225-4100-B4B9-003AC98A087D",
+            "stem": "Which equity gap in school health programs is most critical for addressing the needs of out-of-school adolescents?",
+            "explanation": "The correct answer is 'Exclusion from school-based metrics' because out-of-school adolescents require community-based approaches as they are not included in school-based health program metrics.",
+            "correct_choice": "Exclusion from school-based metrics",
+            "choices": [
+              {
+                "choice_index": 0,
+                "choice_text": "Inadequate tobacco-free compliance",
+                "rationale": "Tobacco-free compliance is significant but not the most critical equity gap for out-of-school adolescents."
+              },
+              {
+                "choice_index": 1,
+                "choice_text": "Absence of safe food standards",
+                "rationale": "Safe food standards are essential but do not directly address the needs of out-of-school adolescents."
+              },
+              {
+                "choice_index": 2,
+                "choice_text": "Lack of emergency action plans",
+                "rationale": "Emergency action plans are important but primarily relevant within schools, not for out-of-school adolescents."
+              },
+              {
+                "choice_index": 3,
+                "choice_text": "Exclusion from school-based metrics",
+                "rationale": "Out-of-school adolescents are not captured by school-based metrics, necessitating targeted community-based approaches."
+              }
+            ],
+            "correct_choice_index": 3,
+            "variants": [
+              {
+                "variant_no": 1,
+                "stem": "What is a key equity gap affecting out-of-school adolescents in health programs?",
+                "correct_choice_index": 3
+              },
+              {
+                "variant_no": 2,
+                "stem": "Out-of-school adolescents face which critical equity gap in school health programs?",
+                "correct_choice_index": 3
+              }
+            ],
+            "references": [
+              {
+                "source_id": "ref:23cf4f7514b954a63cc0c0ac578bcf1a480af9fa",
+                "citation_link": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf",
+                "excerpt": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf Security School Safety and on 2021 —"
+              },
+              {
+                "source_id": "ref:bddcf87dbd587447309cecd81bcc42212201442d",
+                "citation_link": "https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi",
+                "excerpt": "with https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi th_disabilities_act%2C_2016.pdf Disabilities Persons 2016 Act —"
+              },
+              {
+                "source_id": "ref:d7b69392b7b86e577155febf2bd1855bcdf40ee8",
+                "citation_link": "https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O",
+                "excerpt": "Operational guidelines on School Health Programme under Ayushman Bharat — https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O perational_guidelines_on_School_Health_Programme_under_Ayushman_Bharat.pdf Rashtriya"
+              },
+              {
+                "source_id": "ref:f98e480d8e5ab1d73998f38bb4760cf624ad4e77",
+                "citation_link": "https://nhm.gov.in/New-Update-",
+                "excerpt": "Menstrual Hygiene Policy for School-Going Girls — https://nhm.gov.in/New-Update- 2025-26/Adolescent-Health/Menstrual-Hygiene-Policy/Menstrual-Hygiene-Policy-for- School-Going-Girls.pdf Guidelines"
+              },
+              {
+                "source_id": "ref:65a22f908524c026600a2825acc7cc59392fa6c7",
+                "citation_link": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=421&sublinkid=1247",
+                "excerpt": "programme Swasthya https://nhm.gov.in/index1.php?lang=1&level=3&lid=421&sublinkid=1247 Karyakram Kishor page — of Rights"
+              }
+            ]
+          },
+          {
+            "question_id": "3EE5EB28-C11B-4EC2-A7DA-49F4AD8CC95F",
+            "stem": "A 13-year-old girl avoids school due to menstruation-related stigma and inaccessible toilets. Which adaptation is most critical to address her needs?",
+            "explanation": "The correct answer is 'Gender-sensitive sanitation facilities' because they address menstruation-related stigma and inaccessible toilets, enabling girls to attend school.",
+            "correct_choice": "Gender-sensitive sanitation facilities",
+            "choices": [
+              {
+                "choice_index": 0,
+                "choice_text": "Community-based anemia screening",
+                "rationale": "Community-based anemia screening is important but does not resolve school avoidance due to sanitation issues."
+              },
+              {
+                "choice_index": 1,
+                "choice_text": "Emergency action plans",
+                "rationale": "Emergency action plans are not relevant to addressing menstruation-related barriers."
+              },
+              {
+                "choice_index": 2,
+                "choice_text": "Tobacco-free school compliance",
+                "rationale": "Tobacco-free compliance is unrelated to menstruation or sanitation issues."
+              },
+              {
+                "choice_index": 3,
+                "choice_text": "Gender-sensitive sanitation facilities",
+                "rationale": "Gender-sensitive sanitation facilities directly address menstruation-related stigma and inaccessible toilets."
+              }
+            ],
+            "correct_choice_index": 3,
+            "variants": [
+              {
+                "variant_no": 1,
+                "stem": "Which adaptation can help a girl avoid school due to menstruation-related barriers?",
+                "correct_choice_index": 3
+              },
+              {
+                "variant_no": 2,
+                "stem": "What adaptation is crucial for addressing menstruation-related stigma in schools?",
+                "correct_choice_index": 3
+              }
+            ],
+            "references": [
+              {
+                "source_id": "ref:23cf4f7514b954a63cc0c0ac578bcf1a480af9fa",
+                "citation_link": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf",
+                "excerpt": "https://dsel.education.gov.in/sites/default/files/2021-10/guidelines_sss.pdf Security School Safety and on 2021 —"
+              },
+              {
+                "source_id": "ref:bddcf87dbd587447309cecd81bcc42212201442d",
+                "citation_link": "https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi",
+                "excerpt": "with https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_wi th_disabilities_act%2C_2016.pdf Disabilities Persons 2016 Act —"
+              },
+              {
+                "source_id": "ref:d7b69392b7b86e577155febf2bd1855bcdf40ee8",
+                "citation_link": "https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O",
+                "excerpt": "Operational guidelines on School Health Programme under Ayushman Bharat — https://nhm.gov.in/New_Updates_2018/NHM_Components/RMNCHA/AH/guidelines/O perational_guidelines_on_School_Health_Programme_under_Ayushman_Bharat.pdf Rashtriya"
+              },
+              {
+                "source_id": "ref:f98e480d8e5ab1d73998f38bb4760cf624ad4e77",
+                "citation_link": "https://nhm.gov.in/New-Update-",
+                "excerpt": "Menstrual Hygiene Policy for School-Going Girls — https://nhm.gov.in/New-Update- 2025-26/Adolescent-Health/Menstrual-Hygiene-Policy/Menstrual-Hygiene-Policy-for- School-Going-Girls.pdf Guidelines"
+              },
+              {
+                "source_id": "ref:65a22f908524c026600a2825acc7cc59392fa6c7",
+                "citation_link": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=421&sublinkid=1247",
+                "excerpt": "programme Swasthya https://nhm.gov.in/index1.php?lang=1&level=3&lid=421&sublinkid=1247 Karyakram Kishor page — of Rights"
+              }
+            ]
+          }
+        ],
+        "case_studies": [],
+        "coverage_note": null,
+        "content_status": "OK"
+      }
+    ],
+    "insufficient_subtopics": []
+  }
+}
